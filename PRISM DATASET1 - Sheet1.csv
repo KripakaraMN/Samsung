@@ -1,0 +1,972 @@
+ORIGINAL SENTENCE,Sentence,Command,CATEGORY
+"I’m planning on a trip to Paris, France next month.Update place to Madrid, Spain.","I’m planning on a trip to Paris, France next month.","Update place to Madrid, Spain.",COMMAND
+I have always dreamt of visiting the ancient ruins of Pompeii in France.Edit location to Italy.,I have always dreamt of visiting the ancient ruins of Pompeii in France.,Edit location to Italy.,COMMAND
+My family and I are planning a road trip to Yellowstone National Park in Las Vegas this summer.Change Las Vegas to Wyoming.,My family and I are planning a road trip to Yellowstone National Park in Las Vegas this summer.,Change Las Vegas to Wyoming.,COMMAND
+"I have a colleague who lives in Sydney, Africa, and she always talks about how beautiful the beaches are there.Rewrite country to Australia.","I have a colleague who lives in Sydney, Africa, and she always talks about how beautiful the beaches are there.",Rewrite country to Australia.,COMMAND
+"Have you ever been to the Louvre Museum in Argentina?Replace Argentina with Paris.
+",Have you ever been to the Louvre Museum in Argentina?,"Replace Argentina with Paris.
+",COMMAND
+"The Taj Mahal is a beautiful mausoleum located in Wuhan, China.Alter location to Agra, India.","The Taj Mahal is a beautiful mausoleum located in Wuhan, China.","Alter location to Agra, India.",COMMAND
+"On my last vacation, I went on a safari in the Maasai Maara National Reserve in California.Correct place to Kenya.","On my last vacation, I went on a safari in the Maasai Maara National Reserve in California.",Correct place to Kenya.,COMMAND
+"After college, I moved to New York City to pursue my career in finance.Update New York City to London.","After college, I moved to New York City to pursue my career in finance.",Update New York City to London.,COMMAND
+"My dream is to travel to all seven continents, including visiting penguins in Asia.Change the continent to Antarctica.","My dream is to travel to all seven continents, including visiting penguins in Asia.",Change the continent to Antarctica.,COMMAND
+I have heard that the food in Italy is amazing.Update place to Japan.,I have heard that the food in Italy is amazing.,Update place to Japan.,COMMAND
+The play has a running time of sixty minutesModify duration to ninety minutes.,The play has a running time of sixty minutes,Modify duration to ninety minutes.,COMMAND
+I am planning to study abroad for one semester.Update duration to two semesters.,I am planning to study abroad for one semester.,Update duration to two semesters.,COMMAND
+She’s been married for ten years.Rewrite time span to fifteen.,She’s been married for ten years.,Rewrite time span to fifteen.,COMMAND
+The flight from New York to Los Angeles takes about three hours.Change three hours to six hours.,The flight from New York to Los Angeles takes about three hours.,Change three hours to six hours.,COMMAND
+The movie is two hours thirty minutes long.Correct duration to two hours forty five minutes long.,The movie is two hours thirty minutes long.,Correct duration to two hours forty five minutes long.,COMMAND
+He has a six-month probationary period at his new job.Revise extent to eight-months.,He has a six-month probationary period at his new job.,Revise extent to eight-months.,COMMAND
+The exhibit at the museum is open for two weeks.Edit duration to four weeks.,The exhibit at the museum is open for two weeks.,Edit duration to four weeks.,COMMAND
+The play has eight performances over the course of one week.Amend the span to two weeks.,The play has eight performances over the course of one week.,Amend the span to two weeks.,COMMAND
+I am going on vacation for two weeks.Change duration to one week.,I am going on vacation for two weeks.,Change duration to one week.,COMMAND
+"He has been working on this project for over one month.Update duration to three months.
+",He has been working on this project for over one month.,"Update duration to three months.
+",COMMAND
+"She’s only three years old, but she can count to ten.Change age to two.","She’s only three years old, but she can count to ten.",Change age to two.,COMMAND
+She’s in her mid-twenties.Update age to mid-forties.,She’s in her mid-twenties.,Update age to mid-forties.,COMMAND
+"He’s too young to join the military, he’s only thirteen.Revise thirteen to seventeen.","He’s too young to join the military, he’s only thirteen.",Revise thirteen to seventeen.,COMMAND
+He’s going to be six next month and is very excited about his birthday.Edit years to five.,He’s going to be six next month and is very excited about his birthday.,Edit years to five.,COMMAND
+The Taj Mahal in India is 50 years old.Convert age to 350.,The Taj Mahal in India is 50 years old.,Convert age to 350.,COMMAND
+The Angkor Wat Temple in Cambodia is 450 years old.Modify 450 to 1000.,The Angkor Wat Temple in Cambodia is 450 years old.,Modify 450 to 1000.,COMMAND
+"He’s the oldest person in his family, he is eighty two years old.Update age to ninety two.","He’s the oldest person in his family, he is eighty two years old.",Update age to ninety two.,COMMAND
+The oldest known recipe is 500 years old.Change age to 1000.,The oldest known recipe is 500 years old.,Change age to 1000.,COMMAND
+The Great Mosque of Mecca of Saudi Arabia is over 500 years old.Modify 500 to 1400.,The Great Mosque of Mecca of Saudi Arabia is over 500 years old.,Modify 500 to 1400.,COMMAND
+The oldest known book is 500 years old.Convert age to 5000.,The oldest known book is 500 years old.,Convert age to 5000.,COMMAND
+The sky is a beautiful shade of blue today.Convert blue to grey.,The sky is a beautiful shade of blue today.,Convert blue to grey.,COMMAND
+She wore a bright red dress to the party.Update colour to orange.,She wore a bright red dress to the party.,Update colour to orange.,COMMAND
+He painted the walls a pale yellow colour.Change colour to pure red.,He painted the walls a pale yellow colour.,Change colour to pure red.,COMMAND
+The grass is a lush green in the springtime.Modify lush green to pale yellow.,The grass is a lush green in the springtime.,Modify lush green to pale yellow.,COMMAND
+She bought a new car in a metallic silver colour.Correct colour to gold.,She bought a new car in a metallic silver colour.,Correct colour to gold.,COMMAND
+He wore a black suit and tie to the funeral.Edit black to white.,He wore a black suit and tie to the funeral.,Edit black to white.,COMMAND
+The flowers in the garden are a vibrant shade of pink.Edit colour to blue.,The flowers in the garden are a vibrant shade of pink.,Edit colour to blue.,COMMAND
+"She dyed her hair a deep, rich brown.Revise brown to blonde.","She dyed her hair a deep, rich brown.",Revise brown to blonde.,COMMAND
+The sunsets in the desert are often a fiery blue colour.Change colour to orange.,The sunsets in the desert are often a fiery blue colour.,Change colour to orange.,COMMAND
+He wore a light blue shirt that matched his eyes.Update blue to red.,He wore a light blue shirt that matched his eyes.,Update blue to red.,COMMAND
+Monica is a graphic designer at an advertising agency.Change name to Rachel.,Monica is a graphic designer at an advertising agency.,Change name to Rachel.,COMMAND
+William is a doctor at the clinic.Update name to Chandler.,William is a doctor at the clinic.,Update name to Chandler.,COMMAND
+Stephanie is a veterinarian at the animal hospital.Revise Stephanie to Ross Geller.,Stephanie is a veterinarian at the animal hospital.,Revise Stephanie to Ross Geller.,COMMAND
+Kevin is a construction worker.Modify name to Phoebe.,Kevin is a construction worker.,Modify name to Phoebe.,COMMAND
+Melissa is a librarian at the public library.Edit Melissa to Phil Dunphy.,Melissa is a librarian at the public library.,Edit Melissa to Phil Dunphy.,COMMAND
+"Meta is a technology company based in Redmond, Washington.Update title to Microsoft.","Meta is a technology company based in Redmond, Washington.",Update title to Microsoft.,COMMAND
+The SAARC is an international organisation that promotes peaceModify name to United Nations.,The SAARC is an international organisation that promotes peace,Modify name to United Nations.,COMMAND
+Amazon is a search engine and technology company headquartered inRevise organisation name to Google.,Amazon is a search engine and technology company headquartered in,Revise organisation name to Google.,COMMAND
+The International Monetary Fund is a specialised agency of the UnitedEdit title to World Health Organisation.,The International Monetary Fund is a specialised agency of the United,Edit title to World Health Organisation.,COMMAND
+Nations that focus on global public health.Edit title to World Health Organisation.,Nations that focus on global public health.,Edit title to World Health Organisation.,COMMAND
+The Unicef is an humanitarian organisation that providesUpdate Unicef to Red Cross.,The Unicef is an humanitarian organisation that provides,Update Unicef to Red Cross.,COMMAND
+Please call me at 555-555-1212.Modify phone number to 555-555-2323.,Please call me at 555-555-1212.,Modify phone number to 555-555-2323.,COMMAND
+My phone number is 555-555-1212.Update 555-555-1212 to 555-555-4545.,My phone number is 555-555-1212.,Update 555-555-1212 to 555-555-4545.,COMMAND
+You can reach me at 555-555-1212 if you need to.Change number to 555-555-8989.,You can reach me at 555-555-1212 if you need to.,Change number to 555-555-8989.,COMMAND
+I can be reached at 555-555-1212.Revise contact number 555-555-6767.,I can be reached at 555-555-1212.,Revise contact number 555-555-6767.,COMMAND
+My contact number is 555-555-1212.Alter 555-555-1212 to 555-555-9092,My contact number is 555-555-1212.,Alter 555-555-1212 to 555-555-9092,COMMAND
+"If you need to reach me, my phone number is 555-555-1212.Update number to 555-666-7777.","If you need to reach me, my phone number is 555-555-1212.",Update number to 555-666-7777.,COMMAND
+"I can't seem to find my phone, can you call me on my cell phone at 555-555-5555?Revise 555-555-5555 to 555-555-6969.","I can't seem to find my phone, can you call me on my cell phone at 555-555-5555?",Revise 555-555-5555 to 555-555-6969.,COMMAND
+Please contact customer service at 888-888-8888 for any inquiries.Modify contact to 555-555-7878.,Please contact customer service at 888-888-8888 for any inquiries.,Modify contact to 555-555-7878.,COMMAND
+The phone number for directory assistance is 911.Change number to 911.,The phone number for directory assistance is 911.,Change number to 911.,COMMAND
+"Don't forget to program the emergency contact phone number, 555-666-7777, into your cell phone.Update phone number to 555-666-8888.","Don't forget to program the emergency contact phone number, 555-666-7777, into your cell phone.",Update phone number to 555-666-8888.,COMMAND
+The company's profits increased by 50% last year.Change 50% to 60%.,The company's profits increased by 50% last year.,Change 50% to 60%.,COMMAND
+"The teacher gave him a grade of 80%, which is a B.Update percentage to 90%.","The teacher gave him a grade of 80%, which is a B.",Update percentage to 90%.,COMMAND
+The population of the city has grown by 15% in the last decade.Modify percentage to 20%.,The population of the city has grown by 15% in the last decade.,Modify percentage to 20%.,COMMAND
+The sale at the store is offering a 20% discount on all merchandise.Revise percentage to 35%.,The sale at the store is offering a 20% discount on all merchandise.,Revise percentage to 35%.,COMMAND
+The stock market went down by 30% during the recession.Edit 30% to 40%.,The stock market went down by 30% during the recession.,Edit 30% to 40%.,COMMAND
+The new product has a success rate of 95%.Edit percentage to 75%.,The new product has a success rate of 95%.,Edit percentage to 75%.,COMMAND
+The temperature has dropped by 10% in the last hourChange 10% to 15%.,The temperature has dropped by 10% in the last hour,Change 10% to 15%.,COMMAND
+The number of people attending the event increased by 25% from the previous year.Update percentage to 35%.,The number of people attending the event increased by 25% from the previous year.,Update percentage to 35%.,COMMAND
+The team's win percentage is 60%.Rewrite 60% to 90%.,The team's win percentage is 60%.,Rewrite 60% to 90%.,COMMAND
+The price of the house has increased by 5% since it was last on the Market.Rewrite percentage to 10%.,The price of the house has increased by 5% since it was last on the Market.,Rewrite percentage to 10%.,COMMAND
+I'll meet you at the park at noon.Change time to evening.,I'll meet you at the park at noon.,Change time to evening.,COMMAND
+The flight departs at 6:00 AM tomorrow morning.Modify 6:00 AM to 6:00 PM,The flight departs at 6:00 AM tomorrow morning.,Modify 6:00 AM to 6:00 PM,COMMAND
+The store closes at 9:00 PM every night.Update time to 10:00 PM,The store closes at 9:00 PM every night.,Update time to 10:00 PM,COMMAND
+The party starts at 7:30 PM and goes until midnight.Revise time to 8:30 PM,The party starts at 7:30 PM and goes until midnight.,Revise time to 8:30 PM,COMMAND
+I usually wake up at 6:00 AM on weekdays.Edit 6:00 AM to 9:00 AM,I usually wake up at 6:00 AM on weekdays.,Edit 6:00 AM to 9:00 AM,COMMAND
+Dinner will be ready at 6:00 PM.Amend time to 8:00 PM,Dinner will be ready at 6:00 PM.,Amend time to 8:00 PM,COMMAND
+The movie starts at 8:00 PM and is two hours long.Edit time to 7:30 PM,The movie starts at 8:00 PM and is two hours long.,Edit time to 7:30 PM,COMMAND
+She has a dentist appointment at 2:00 PM.Change 2:00 PM to 3:00 PM,She has a dentist appointment at 2:00 PM.,Change 2:00 PM to 3:00 PM,COMMAND
+I usually have dinner at 6:30 PM.Modify time to 9:30PM,I usually have dinner at 6:30 PM.,Modify time to 9:30PM,COMMAND
+The museum is open from 10:00 AM to 6:00 PM.Update 6:00 PM to 8:00 PM,The museum is open from 10:00 AM to 6:00 PM.,Update 6:00 PM to 8:00 PM,COMMAND
+"The flight to New York leaves at 8:00 am on Thursday, April 1st.Update date to January 10th.","The flight to New York leaves at 8:00 am on Thursday, April 1st.",Update date to January 10th.,COMMAND
+"The party starts at 7:00 pm and ends at 11:00 pm on Friday, December 31st.Change 31st to 1st.","The party starts at 7:00 pm and ends at 11:00 pm on Friday, December 31st.",Change 31st to 1st.,COMMAND
+"My dentist appointment is at 1:00 pm on Tuesday, February 14th.Edit date to November 14th.","My dentist appointment is at 1:00 pm on Tuesday, February 14th.",Edit date to November 14th.,COMMAND
+"The concert begins at 7:30 pm and doors open at 6:30 pm on Saturday, August 15th.Rewrite August 15th to October 2nd.","The concert begins at 7:30 pm and doors open at 6:30 pm on Saturday, August 15th.",Rewrite August 15th to October 2nd.,COMMAND
+"The store opens at 9:00 am and closes at 9:00 pm every day except for Sundays, when it closes at 6:00 pm.Revise day to Saturday.","The store opens at 9:00 am and closes at 9:00 pm every day except for Sundays, when it closes at 6:00 pm.",Revise day to Saturday.,COMMAND
+"I have a meeting on Monday, January 10th.Change date to February 16th.","I have a meeting on Monday, January 10th.",Change date to February 16th.,COMMAND
+"The library is closed on holidays, including Easter and Christmas.Rewrite Christmas to Halloween.","The library is closed on holidays, including Easter and Christmas.",Rewrite Christmas to Halloween.,COMMAND
+"The deadline for submitting the report is Friday, February 12th at 5pm.Modify date to March 11th.","The deadline for submitting the report is Friday, February 12th at 5pm.",Modify date to March 11th.,COMMAND
+"I was born on September 21st, 1990.Update date to August 24th, 2002.","I was born on September 21st, 1990.","Update date to August 24th, 2002.",COMMAND
+"The concert is scheduled for Saturday, June 5th at 7pm.The concert is scheduled for Saturday, June 5th at 7pm.","The concert is scheduled for Saturday, June 5th at 7pm.","The concert is scheduled for Saturday, June 5th at 7pm.",COMMAND
+I have $20 in my wallet.Update money to 40.,I have $20 in my wallet.,Update money to 40.,COMMAND
+There are 50 weeks in a year.Change the number of weeks to 52.,There are 50 weeks in a year.,Change the number of weeks to 52.,COMMAND
+The temperature outside is currently -5 degrees Celsius.Modify temperature to -10.,The temperature outside is currently -5 degrees Celsius.,Modify temperature to -10.,COMMAND
+I need to buy 3 apples at the grocery store.Rewrite 3 to 6.,I need to buy 3 apples at the grocery store.,Rewrite 3 to 6.,COMMAND
+The apartment building has 12 floors.Update number to 16.,The apartment building has 12 floors.,Update number to 16.,COMMAND
+The school has an enrollment of approximately 500 students.Rewrite 500 to 1000.,The school has an enrollment of approximately 500 students.,Rewrite 500 to 1000.,COMMAND
+I need to travel 60 miles to get to my grandmother's house.Edit distance to 40.,I need to travel 60 miles to get to my grandmother's house.,Edit distance to 40.,COMMAND
+The recipe calls for 2 cups of sugar.Edit 2 to 1.,The recipe calls for 2 cups of sugar.,Edit 2 to 1.,COMMAND
+The store is offering a 20% discount on all items.Change percentage to 45%.,The store is offering a 20% discount on all items.,Change percentage to 45%.,COMMAND
+There are 34 hours in a day.Modify duration to 24.,There are 34 hours in a day.,Modify duration to 24.,COMMAND
+I can't believe I'm already 30 years old.Alter age to 31,I can't believe I'm already 30 years old.,Alter age to 31,COMMAND
+The ancient ruins were estimated to be over 2000 years old.Revise 2000 to 3000,The ancient ruins were estimated to be over 2000 years old.,Revise 2000 to 3000,COMMAND
+The legal drinking age in the United States is 21.Replace age with 31,The legal drinking age in the United States is 21.,Replace age with 31,COMMAND
+He started his own business at the young age of 25.Amend age to 21,He started his own business at the young age of 25.,Amend age to 21,COMMAND
+She retired from her job at the age of 65.Edit 65 to 60,She retired from her job at the age of 65.,Edit 65 to 60,COMMAND
+"He was the youngest person to ever win a Nobel Prize, at the age of 21.Substitute age with 22","He was the youngest person to ever win a Nobel Prize, at the age of 21.",Substitute age with 22,COMMAND
+The age of the universe is estimated to be around 13.8 billion years.Replace age with 14,The age of the universe is estimated to be around 13.8 billion years.,Replace age with 14,COMMAND
+The age gap between the two siblings is only three years.Update age to 5,The age gap between the two siblings is only three years.,Update age to 5,COMMAND
+The average age of the employees at the company is 35.Revise age to 40,The average age of the employees at the company is 35.,Revise age to 40,COMMAND
+The age of majority in most countries is 18.Replace age with 21,The age of majority in most countries is 18.,Replace age with 21,COMMAND
+He looks much younger than his actual age of 50.Modify age to 55,He looks much younger than his actual age of 50.,Modify age to 55,COMMAND
+I'm from the city of San Francisco. Have you ever been there?Change city to Mumbai,I'm from the city of San Francisco. Have you ever been there?,Change city to Mumbai,COMMAND
+I've always wanted to visit the city of New Orleans.Alter New Orleans to Mumbai,I've always wanted to visit the city of New Orleans.,Alter New Orleans to Mumbai,COMMAND
+"I spent last summer travelling around Europe, and my favourite city was definitely Paris.Modify city to Mumbai","I spent last summer travelling around Europe, and my favourite city was definitely Paris.",Modify city to Mumbai,COMMAND
+I'm thinking about moving to the city of Melbourne.Edit Melbourne to Mumbai,I'm thinking about moving to the city of Melbourne.,Edit Melbourne to Mumbai,COMMAND
+"I have family in the city of Mumbai, and the food there is incredible.Replace Mumbai with Bengaluru.","I have family in the city of Mumbai, and the food there is incredible.",Replace Mumbai with Bengaluru.,COMMAND
+I'm thinking about visiting the city of Rio de Janeiro.Substitute Rio de Janeiro with Mumbai,I'm thinking about visiting the city of Rio de Janeiro.,Substitute Rio de Janeiro with Mumbai,COMMAND
+Nisha went to college in the city of Boston and loved it.Update Boston to Mumbai,Nisha went to college in the city of Boston and loved it.,Update Boston to Mumbai,COMMAND
+"Rohith is from a small town, so moving to the city of Chicago was a big change for me.Revise Chicago to Mumbai","Rohith is from a small town, so moving to the city of Chicago was a big change for me.",Revise Chicago to Mumbai,COMMAND
+I've always wanted to visit the city of Sydney and see the Opera House in person.Amend city to Mumbai,I've always wanted to visit the city of Sydney and see the Opera House in person.,Amend city to Mumbai,COMMAND
+Have you ever been to the United States?Change country to India,Have you ever been to the United States?,Change country to India,COMMAND
+I've always wanted to visit Brazil. I hear the beaches are beautiful.Alter Brazil to India,I've always wanted to visit Brazil. I hear the beaches are beautiful.,Alter Brazil to India,COMMAND
+I went to France on my honeymoon. The food was amazing.Modify country to India,I went to France on my honeymoon. The food was amazing.,Modify country to India,COMMAND
+China has such a rich history and culture. I'd love to visit one day.Alter China to India,China has such a rich history and culture. I'd love to visit one day.,Alter China to India,COMMAND
+"I've never been to Australia, but I've heard the Great Barrier Reef is breathtaking.Edit country to India","I've never been to Australia, but I've heard the Great Barrier Reef is breathtaking.",Edit country to India,COMMAND
+I grew up in Canada and it's a great country to live in.Replace Canada to India,I grew up in Canada and it's a great country to live in.,Replace Canada to India,COMMAND
+India is known for its diverse culture and vibrant colours.Substitute country to Canada,India is known for its diverse culture and vibrant colours.,Substitute country to Canada,COMMAND
+Russia is such a vast and interesting country. I'd love to explore it more.Update Russia to India,Russia is such a vast and interesting country. I'd love to explore it more.,Update Russia to India,COMMAND
+I've been to Mexico a few times and it's such a beautiful country with so much to see and do.Revise country to India,I've been to Mexico a few times and it's such a beautiful country with so much to see and do.,Revise country to India,COMMAND
+"Italy is one of my favourite countries to visit. The art, architecture, and food are all amazing.Amend Italy to India","Italy is one of my favourite countries to visit. The art, architecture, and food are all amazing.",Amend Italy to India,COMMAND
+Indonesia is a diverse country with so many beautiful islands to visit.Alter country to India,Indonesia is a diverse country with so many beautiful islands to visit.,Alter country to India,COMMAND
+"I love the colour purple, it's so vibrant and fun.Change colour to orange","I love the colour purple, it's so vibrant and fun.",Change colour to orange,COMMAND
+The walls in my bedroom are painted a warm shade of yellow.Alter yellow to orange,The walls in my bedroom are painted a warm shade of yellow.,Alter yellow to orange,COMMAND
+The dress she wore to the wedding was a soft pastel pink.Amend colour to orange,The dress she wore to the wedding was a soft pastel pink.,Amend colour to orange,COMMAND
+My car is painted a sleek shade of black.Revise colour to orange,My car is painted a sleek shade of black.,Revise colour to orange,COMMAND
+I love wearing neutral colours like beige.Update beige to orange,I love wearing neutral colours like beige.,Update beige to orange,COMMAND
+My living room is decorated with shades of navy.Substitute colour with orange,My living room is decorated with shades of navy.,Substitute colour with orange,COMMAND
+The dress my sister wore to the prom was a beautiful shade of silver.Replace silver with orange,The dress my sister wore to the prom was a beautiful shade of silver.,Replace silver with orange,COMMAND
+My bedroom walls are painted a calming shade of light blue.Edit colour to orange,My bedroom walls are painted a calming shade of light blue.,Edit colour to orange,COMMAND
+The kitchen in my new apartment has cabinets painted a warm shade of brown.Alter brown to orange,The kitchen in my new apartment has cabinets painted a warm shade of brown.,Alter brown to orange,COMMAND
+I can't wait to wear my new dress in a vibrant shade of fuchsia to the party this weekend.Modify colour to orange,I can't wait to wear my new dress in a vibrant shade of fuchsia to the party this weekend.,Modify colour to orange,COMMAND
+"Today is January 9th, 2023.Change date to March 16th","Today is January 9th, 2023.",Change date to March 16th,COMMAND
+"I was born on June 24th, 1998.Amend date to March 16th","I was born on June 24th, 1998.",Amend date to March 16th,COMMAND
+"The meeting is scheduled for next Wednesday, April 14th.Revise date to March 16th","The meeting is scheduled for next Wednesday, April 14th.",Revise date to March 16th,COMMAND
+"The deadline to submit the project is Monday, December 31st at 11:59pm.Swap date with March 16th","The deadline to submit the project is Monday, December 31st at 11:59pm.",Swap date with March 16th,COMMAND
+We celebrated our anniversary on March 14th.Substitute date with March 16th,We celebrated our anniversary on March 14th.,Substitute date with March 16th,COMMAND
+"The concert starts at 8:00pm on Friday, July 3rd.Replace date with March 16th","The concert starts at 8:00pm on Friday, July 3rd.",Replace date with March 16th,COMMAND
+"My birthday is on the same day as Independence Day, August 15th.Update date to March 16th","My birthday is on the same day as Independence Day, August 15th.",Update date to March 16th,COMMAND
+"The flight leaves at 6:00am on Monday, September 6th.Edit date to March 16th","The flight leaves at 6:00am on Monday, September 6th.",Edit date to March 16th,COMMAND
+"I'm looking forward to the long weekend coming up on Memorial Day, May 30th.Modify date to March 16th","I'm looking forward to the long weekend coming up on Memorial Day, May 30th.",Modify date to March 16th,COMMAND
+"The office will be closed on Thursday, November 11th for Veterans Day.Alter date to March 16th","The office will be closed on Thursday, November 11th for Veterans Day.",Alter date to March 16th,COMMAND
+We have a meeting scheduled for 10:30 a.m. tomorrow.Change time to 11 am,We have a meeting scheduled for 10:30 a.m. tomorrow.,Change time to 11 am,COMMAND
+The movie starts at 7:15.Alter 7:15 to 7:30,The movie starts at 7:15.,Alter 7:15 to 7:30,COMMAND
+Dinner is at 6:00 tonight.Modify time to 31,Dinner is at 6:00 tonight.,Modify time to 31,COMMAND
+The library opens at 8:30 a.m. and closes at 5:00 p.m.Edit 8:30 to 9:30,The library opens at 8:30 a.m. and closes at 5:00 p.m.,Edit 8:30 to 9:30,COMMAND
+The concert starts at 8:00 p.m. and ends at 10:30 p.m.Replace 8:00 with 7:00,The concert starts at 8:00 p.m. and ends at 10:30 p.m.,Replace 8:00 with 7:00,COMMAND
+The office is open from 9:00 a.m. to 5:00 p.m. Monday through Friday.Substitute 9:00 with 8:00,The office is open from 9:00 a.m. to 5:00 p.m. Monday through Friday.,Substitute 9:00 with 8:00,COMMAND
+The train leaves at 6:45 a.m. and arrives at 10:15 a.m.Swap 6:45 with 7:00,The train leaves at 6:45 a.m. and arrives at 10:15 a.m.,Swap 6:45 with 7:00,COMMAND
+The game starts at 7:30 p.m. and will be over around 10:00 p.m.Update 7:30 to 8:30,The game starts at 7:30 p.m. and will be over around 10:00 p.m.,Update 7:30 to 8:30,COMMAND
+The museum is open from 10:00 a.m. to 5:00 p.m. daily.Revise 10:00 to 11:00,The museum is open from 10:00 a.m. to 5:00 p.m. daily.,Revise 10:00 to 11:00,COMMAND
+I usually go to bed at 11:00 p.m.Substitute 11:00 with 10:00,I usually go to bed at 11:00 p.m.,Substitute 11:00 with 10:00,COMMAND
+I will be gone for two weeks.Change duration to three weeks,I will be gone for two weeks.,Change duration to three weeks,COMMAND
+The movie lasted for two hours.Alter duration to three hours,The movie lasted for two hours.,Alter duration to three hours,COMMAND
+We have been waiting for an hour.Modify duration to three hours,We have been waiting for an hour.,Modify duration to three hours,COMMAND
+She has been studying for six hours straightEdit duration to eight hours,She has been studying for six hours straight,Edit duration to eight hours,COMMAND
+The marathon will take about four hours to complete.Swap duration with six hours,The marathon will take about four hours to complete.,Swap duration with six hours,COMMAND
+The flight from New York to Los Angeles takes about six hours.Replace duration with eight hours,The flight from New York to Los Angeles takes about six hours.,Replace duration with eight hours,COMMAND
+The play will run for three weeks.Amend duration to five weeks,The play will run for three weeks.,Amend duration to five weeks,COMMAND
+The baby has been sleeping for six hours now.Substitute duration to seven hours,The baby has been sleeping for six hours now.,Substitute duration to seven hours,COMMAND
+The concert will last for two hours.Update duration to three hours,The concert will last for two hours.,Update duration to three hours,COMMAND
+We have been married for five years.Revise duration to nine years,We have been married for five years.,Revise duration to nine years,COMMAND
+"John sat at his desk, staring at his computer screen.Change name to Nidhi","John sat at his desk, staring at his computer screen.",Change name to Nidhi,COMMAND
+"Mary stood in front of the class, giving her presentation.Modify name to Mala","Mary stood in front of the class, giving her presentation.",Modify name to Mala,COMMAND
+"The team consisted of Sarah, Kyle, and Jake.Edit name to Rachel","The team consisted of Sarah, Kyle, and Jake.",Edit name to Rachel,COMMAND
+My best friend's name is Rachel.Swap name with Rahul,My best friend's name is Rachel.,Swap name with Rahul,COMMAND
+The teacher called on David to answer the question.Replace name with Dinesh,The teacher called on David to answer the question.,Replace name with Dinesh,COMMAND
+Emily played the piano beautifully at the concert.Revise Emily to Tom,Emily played the piano beautifully at the concert.,Revise Emily to Tom,COMMAND
+Tom and I went to the store together.Amend Tom to Jim,Tom and I went to the store together.,Amend Tom to Jim,COMMAND
+Jessica and her sister went on a trip to Europe.Substitute name with Nihal,Jessica and her sister went on a trip to Europe.,Substitute name with Nihal,COMMAND
+Peter and his family moved to a new house.Update Peter to John,Peter and his family moved to a new house.,Update Peter to John,COMMAND
+The company's CEO is named Samantha.Alter name to Geetha,The company's CEO is named Samantha.,Alter name to Geetha,COMMAND
+The stock market has dropped by 10% in the past month.Alter 10% to 30%,The stock market has dropped by 10% in the past month.,Alter 10% to 30%,COMMAND
+"According to the survey, 60% of people prefer dogs over cats.Modify percentage to 65%","According to the survey, 60% of people prefer dogs over cats.",Modify percentage to 65%,COMMAND
+He said that I received an 85% on my last exam.Edit percentage to 30%,He said that I received an 85% on my last exam.,Edit percentage to 30%,COMMAND
+The new product has a success rate of 95%.Swap percentage with 98%,The new product has a success rate of 95%.,Swap percentage with 98%,COMMAND
+The team has a 50% chance of winning the championship.Replace percentage with 45%,The team has a 50% chance of winning the championship.,Replace percentage with 45%,COMMAND
+The company has a goal to reduce its carbon emissions by 50%.Revise percentage to 30%,The company has a goal to reduce its carbon emissions by 50%.,Revise percentage to 30%,COMMAND
+The doctor said that the patient's chances of recovery are 75%.Amend 75% to 56%,The doctor said that the patient's chances of recovery are 75%.,Amend 75% to 56%,COMMAND
+The new law will increase taxes by 2%.Substitute percentage with 3%,The new law will increase taxes by 2%.,Substitute percentage with 3%,COMMAND
+The company's customer satisfaction rating is at 92%.Update 92% to 95%,The company's customer satisfaction rating is at 92%.,Update 92% to 95%,COMMAND
+My phone number is 7457891234.Change 7457891234 to 345-678-9012,My phone number is 7457891234.,Change 7457891234 to 345-678-9012,COMMAND
+"You can reach me at my office phone number ,9678901234, during business hours.Replace phone number with 345-678-9012","You can reach me at my office phone number ,9678901234, during business hours.",Replace phone number with 345-678-9012,COMMAND
+"I accidentally left my phone at home, so if you need to reach me, please call my backup phone number, 9234567890.Substitute phone number with 345-678-9012","I accidentally left my phone at home, so if you need to reach me, please call my backup phone number, 9234567890.",Substitute phone number with 345-678-9012,COMMAND
+"My phone number has changed to 8456789012, so please update your records.Amend phone number to 345-678-9012","My phone number has changed to 8456789012, so please update your records.",Amend phone number to 345-678-9012,COMMAND
+"I'm sorry, the phone number you have reached, 6789012345, is no longer in service.Modify phone number to 345-678-9012","I'm sorry, the phone number you have reached, 6789012345, is no longer in service.",Modify phone number to 345-678-9012,COMMAND
+The phone number for the main office is 7890123456.Swap 7890123456 with 345-678-9012,The phone number for the main office is 7890123456.,Swap 7890123456 with 345-678-9012,COMMAND
+"I'm sorry, the phone number you have entered, 8901234567, is not a valid number.Edit phone number to 345-678-9012","I'm sorry, the phone number you have entered, 8901234567, is not a valid number.",Edit phone number to 345-678-9012,COMMAND
+"You can reach me anytime at my cell phone number, 555-555-1212.Revise phone number to 345-678-9012","You can reach me anytime at my cell phone number, 555-555-1212.",Revise phone number to 345-678-9012,COMMAND
+Please call 8901234567 to schedule an appointment.Alter phone number to 345-678-9012,Please call 8901234567 to schedule an appointment.,Alter phone number to 345-678-9012,COMMAND
+The customer service hotline number is 9945678901Update 9945678901to 345-678-9012,The customer service hotline number is 9945678901,Update 9945678901to 345-678-9012,COMMAND
+She is in her early twenties. Change age to thirties,She is in her early twenties. ,Change age to thirties,COMMAND
+The age requirement for voting is 19.Update age to 18,The age requirement for voting is 19.,Update age to 18,COMMAND
+The average age of the group was 35.Rewrite the age as 30,The average age of the group was 35.,Rewrite the age as 30,COMMAND
+The age of the group was estimated to be 35. Alter 35 to 45,The age of the group was estimated to be 35. ,Alter 35 to 45,COMMAND
+The age of the youngest member of the class was 20.Swap the age with 18 years,The age of the youngest member of the class was 20.,Swap the age with 18 years,COMMAND
+The age of the oldest member of the team was 42. Change the age to 40 years,The age of the oldest member of the team was 42. ,Change the age to 40 years,COMMAND
+She plans to retire at age 60. Revise the age to 50 years,She plans to retire at age 60. ,Revise the age to 50 years,COMMAND
+The legal drinking age is 24. Modify age to 21,The legal drinking age is 24. ,Modify age to 21,COMMAND
+The age of the building is unknown. Update age to 26 years,The age of the building is unknown. ,Update age to 26 years,COMMAND
+The age of the artifacts discovered was estimated to be over 5000 years old.Substitute age with 6000,The age of the artifacts discovered was estimated to be over 5000 years old.,Substitute age with 6000,COMMAND
+He vacationed in Paris last summer. Change city to London,He vacationed in Paris last summer. ,Change city to London,COMMAND
+She grew up in Mumbai. Alter city to Delhi,She grew up in Mumbai. ,Alter city to Delhi,COMMAND
+The company's headquarters is located in New York City. Update New York to California,The company's headquarters is located in New York City. ,Update New York to California,COMMAND
+He explored the beaches in Goa. Replace city with Chennai,He explored the beaches in Goa. ,Replace city with Chennai,COMMAND
+She studied abroad in Sydney.Modify Sydney to Dublin,She studied abroad in Sydney.,Modify Sydney to Dublin,COMMAND
+He took a road trip from Bangalore to Hampi. Correct the destination to Mysore,He took a road trip from Bangalore to Hampi. ,Correct the destination to Mysore,COMMAND
+"She went to the bustling city of Kolkata, also known as Calcutta, and then took a train to the coastal city of Chennai. Swap Chennai with Bhopal","She went to the bustling city of Kolkata, also known as Calcutta, and then took a train to the coastal city of Chennai. ",Swap Chennai with Bhopal,COMMAND
+She fell in love with the architecture in Hampi. Change city to Mysore,She fell in love with the architecture in Hampi. ,Change city to Mysore,COMMAND
+"He started his journey in Delhi, then went to Ajanta and Ellora. Update City to Ahmedabad","He started his journey in Delhi, then went to Ajanta and Ellora. ",Update City to Ahmedabad,COMMAND
+"The technology hub of Hyderabad, known for its modern infrastructure and start-up culture, was where he attended a business conference.Change city to Bangalore","The technology hub of Hyderabad, known for its modern infrastructure and start-up culture, was where he attended a business conference.",Change city to Bangalore,COMMAND
+"The bridesmaids will be wearing pink dresses, as per the bride's request Alter the color to yellow","The bridesmaids will be wearing pink dresses, as per the bride's request ",Alter the color to yellow,COMMAND
+The walls in the living room are painted a pale shade of blue. Change the color to gray.,The walls in the living room are painted a pale shade of blue. ,Change the color to gray.,COMMAND
+He bought a red sports car for his birthday. Swap color red with black.,He bought a red sports car for his birthday. ,Swap color red with black.,COMMAND
+The sunset was a beautiful blend of orange and pink hues. Change the color to purple and red.,The sunset was a beautiful blend of orange and pink hues. ,Change the color to purple and red.,COMMAND
+The curtains in the bedroom are a deep shade of green. Modify the color to brown,The curtains in the bedroom are a deep shade of green. ,Modify the color to brown,COMMAND
+She loves wearing a yellow dress on sunny days. Update the color to blue,She loves wearing a yellow dress on sunny days. ,Update the color to blue,COMMAND
+He always wear white T-shirt on weekend.Substitute the color to black,He always wear white T-shirt on weekend.,Substitute the color to black,COMMAND
+The dress code for the party is black and white. Change the color to red and black,The dress code for the party is black and white. ,Change the color to red and black,COMMAND
+The leaves on the trees are turning a beautiful shade of red in the fall. Revise color to yellow,The leaves on the trees are turning a beautiful shade of red in the fall. ,Revise color to yellow,COMMAND
+The flowers in the garden are a vibrant shade of purple. Replace the color to red,The flowers in the garden are a vibrant shade of purple. ,Replace the color to red,COMMAND
+The concert is scheduled to last for 3 hours. Revise the duration to 4 hours,The concert is scheduled to last for 3 hours. ,Revise the duration to 4 hours,COMMAND
+The sale lasts for 2 weeks. Change the duration to 1 week,The sale lasts for 2 weeks. ,Change the duration to 1 week,COMMAND
+We have been working on this project for 6 months. Revise the duration to 8 months,We have been working on this project for 6 months. ,Revise the duration to 8 months,COMMAND
+The flight to India takes about 14 hours. Update the duration to 15 hours,The flight to India takes about 14 hours. ,Update the duration to 15 hours,COMMAND
+The show will be on for 7 nights. Edit the duration to 8 nights,The show will be on for 7 nights. ,Edit the duration to 8 nights,COMMAND
+The battery life lasts for 4 hours. Revise the duration to 5 hours,The battery life lasts for 4 hours. ,Revise the duration to 5 hours,COMMAND
+The training program is designed to be completed within 6 months. Update the duration to 8 months,The training program is designed to be completed within 6 months. ,Update the duration to 8 months,COMMAND
+The offer is valid for 3 days. Alter the duration to 4 days,The offer is valid for 3 days. ,Alter the duration to 4 days,COMMAND
+The delivery time is estimated to be 2 business days. Change the duration to 3 business days,The delivery time is estimated to be 2 business days. ,Change the duration to 3 business days,COMMAND
+The warranty on the product is for 1 year. Replace the duration to 2 years,The warranty on the product is for 1 year. ,Replace the duration to 2 years,COMMAND
+The final exam is scheduled for the 15th of December at 10am.Change month to January,The final exam is scheduled for the 15th of December at 10am.,Change month to January,COMMAND
+"The job fair will take place on the 22nd of October, from 10am to 2pm. Change date to 24th","The job fair will take place on the 22nd of October, from 10am to 2pm. ",Change date to 24th,COMMAND
+The company's annual meeting is scheduled for the 30/02/2023 at 9am. Change 30/02/2023 to 29/02/2023,The company's annual meeting is scheduled for the 30/02/2023 at 9am. ,Change 30/02/2023 to 29/02/2023,COMMAND
+The release date for the new movie is set for the 12th of June. Alter date to 15th,The release date for the new movie is set for the 12th of June. ,Alter date to 15th,COMMAND
+The last day to submit the application is 30th of November. Modify date to 28th,The last day to submit the application is 30th of November. ,Modify date to 28th,COMMAND
+The sports tournament is going to be held on 7th of August. Change 7th to 8th,The sports tournament is going to be held on 7th of August. ,Change 7th to 8th,COMMAND
+The vacation will start on 1st of January for two weeks. Change date to 2nd,The vacation will start on 1st of January for two weeks. ,Change date to 2nd,COMMAND
+The train is scheduled to arrive in 20 minutes.Change arrival time to 30 minutes,The train is scheduled to arrive in 20 minutes.,Change arrival time to 30 minutes,COMMAND
+Let's aim to finish this project by 8pm tonight.Alter time to 9 pm,Let's aim to finish this project by 8pm tonight.,Alter time to 9 pm,COMMAND
+"It's almost 8am now, we should leave in about 45 minutes. Modify time to 10 pm","It's almost 8am now, we should leave in about 45 minutes. ",Modify time to 10 pm,COMMAND
+"The store closes at 9pm, so we should leave by 8pm. Change closing time 8:30","The store closes at 9pm, so we should leave by 8pm. ",Change closing time 8:30,COMMAND
+"The flight is scheduled to take off at 3pm, and will arrive at destination at 6pm. Update destination time to 5:30 pm","The flight is scheduled to take off at 3pm, and will arrive at destination at 6pm. ",Update destination time to 5:30 pm,COMMAND
+The show starts at 8pm sharp and ends at 11pm. Change show starting time to 9pm,The show starts at 8pm sharp and ends at 11pm. ,Change show starting time to 9pm,COMMAND
+The package will arrive today at 4 pm. Change 4 pm to 5 pm,The package will arrive today at 4 pm. ,Change 4 pm to 5 pm,COMMAND
+The submission date is 14th of April at 10am. Edit submission to 10:30 am,The submission date is 14th of April at 10am. ,Edit submission to 10:30 am,COMMAND
+The contest ends at 12 pm sharp. Swap 12 pm with 1 pm,The contest ends at 12 pm sharp. ,Swap 12 pm with 1 pm,COMMAND
+The screening of the movie starts at 8:30 pm. Change starting time to 9:00pm,The screening of the movie starts at 8:30 pm. ,Change starting time to 9:00pm,COMMAND
+My son will turn 21 this year and he is currently studying 2nd year in BMSCEChange age from 21 to 22,My son will turn 21 this year and he is currently studying 2nd year in BMSCE,Change age from 21 to 22,COMMAND
+This building was built almost 2 years back.Update age to 3 years,This building was built almost 2 years back.,Update age to 3 years,COMMAND
+This fort holds a history of 500 years and was used mainly for military purpose.Correct the age to 450,This fort holds a history of 500 years and was used mainly for military purpose.,Correct the age to 450,COMMAND
+"Sorry I forgot to wish you for your 20th birthday, Happy birthday.Modify the age to 21","Sorry I forgot to wish you for your 20th birthday, Happy birthday.",Modify the age to 21,COMMAND
+"According to Indian Motor License, to obtain driving license you must have crossed 16 years.Revise the age to 18 years","According to Indian Motor License, to obtain driving license you must have crossed 16 years.",Revise the age to 18 years,COMMAND
+It’s illegal to drink until you have crossed an age limit of 18 years.Amend the limit to 21 years,It’s illegal to drink until you have crossed an age limit of 18 years.,Amend the limit to 21 years,COMMAND
+It has already been 3 years since I have bought this phone.Convert the age to 4 years,It has already been 3 years since I have bought this phone.,Convert the age to 4 years,COMMAND
+"The age of the puppy I bought, is almost 5 months nowChange the age to 8 months","The age of the puppy I bought, is almost 5 months now",Change the age to 8 months,COMMAND
+I passed my BE when I was 21 years oldRewrite the age to 22 years,I passed my BE when I was 21 years old,Rewrite the age to 22 years,COMMAND
+At age of 14 my fathers learned me how to drive a motor cycle.Change the age to 15 years,At age of 14 my fathers learned me how to drive a motor cycle.,Change the age to 15 years,COMMAND
+It almost takes 2 hours to travel from Bangalore to MysoreAlter the destination to Ramanagara,It almost takes 2 hours to travel from Bangalore to Mysore,Alter the destination to Ramanagara,COMMAND
+"The event will be organized in XYZ City, please attend the event along with your familyUpdate the city to ABC","The event will be organized in XYZ City, please attend the event along with your family",Update the city to ABC,COMMAND
+They say Osaka in Japan is the most safest city in the world.Substitute Osaka with Tokyo,They say Osaka in Japan is the most safest city in the world.,Substitute Osaka with Tokyo,COMMAND
+"To reach Delhi, you should get down at Bangalore and catch another plane.Change the intermediate station to Patna","To reach Delhi, you should get down at Bangalore and catch another plane.",Change the intermediate station to Patna,COMMAND
+I used to live in Bangalore when I was working in InfosysReplace the city with Hyderabad,I used to live in Bangalore when I was working in Infosys,Replace the city with Hyderabad,COMMAND
+New York is the most crowded city in the worldSwap New York with Tokyo,New York is the most crowded city in the world,Swap New York with Tokyo,COMMAND
+The venue of the event is at ABC cityChange the venue to FFF,The venue of the event is at ABC city,Change the venue to FFF,COMMAND
+Bangalore is unbeaten in terms of weather condition and safety in IndiaChange the city to Mysore,Bangalore is unbeaten in terms of weather condition and safety in India,Change the city to Mysore,COMMAND
+In order to reach the destination you should climb train at BangaloreCorrect the city to Hassan,In order to reach the destination you should climb train at Bangalore,Correct the city to Hassan,COMMAND
+"For a better experience you should travel, Bangalore to Mysore by trainChange the source to Mangalore","For a better experience you should travel, Bangalore to Mysore by train",Change the source to Mangalore,COMMAND
+Color theme for the upcoming event is blue and it is mandatoryChange the color to red,Color theme for the upcoming event is blue and it is mandatory,Change the color to red,COMMAND
+Blue color butterflies are so beautiful and are so mesmorizing to watch themReplace the blue color with green,Blue color butterflies are so beautiful and are so mesmorizing to watch them,Replace the blue color with green,COMMAND
+Lavender flower has a light shade of redChange the color to violet,Lavender flower has a light shade of red,Change the color to violet,COMMAND
+Orange will still be orange in color if it is ripenedConvert the color to green,Orange will still be orange in color if it is ripened,Convert the color to green,COMMAND
+The main color them of your website should have purple color with secondary color as violetAlter main color to blue,The main color them of your website should have purple color with secondary color as violet,Alter main color to blue,COMMAND
+Your outfit would have been better if you have wore dark blue shirtSubstitute dark color with light color.,Your outfit would have been better if you have wore dark blue shirt,Substitute dark color with light color.,COMMAND
+The color of heat emitting body is represented by orange in thermoscope.Swap orange color with red,The color of heat emitting body is represented by orange in thermoscope.,Swap orange color with red,COMMAND
+The free acid turns red litmus to a claret color.Replace red with blue,The free acid turns red litmus to a claret color.,Replace red with blue,COMMAND
+"The pure metal is grey in color, is very ductile, and becomes remarkably hard when hammered, a diamond drill making little impression upon it.Change the color to silver-white","The pure metal is grey in color, is very ductile, and becomes remarkably hard when hammered, a diamond drill making little impression upon it.",Change the color to silver-white,COMMAND
+Cars with gold color is everyone’s dreamAmend color to red,Cars with gold color is everyone’s dream,Amend color to red,COMMAND
+The event the company is organizing has been an elite industry for 4 years straightReplace 4 years with 6 years,The event the company is organizing has been an elite industry for 4 years straight,Replace 4 years with 6 years,COMMAND
+"Maybe you should have dropped and studied for NEET, 2 years back.Change 2 years to 1 year","Maybe you should have dropped and studied for NEET, 2 years back.",Change 2 years to 1 year,COMMAND
+Please increase my project deadline duration by 2 months at least.Revise the duration by 3 months,Please increase my project deadline duration by 2 months at least.,Revise the duration by 3 months,COMMAND
+It almost takes 3 hours time to reach from Bangalore to the event venueUpdate the time to 4 hours,It almost takes 3 hours time to reach from Bangalore to the event venue,Update the time to 4 hours,COMMAND
+The fest in our college will be held for 5 daysEdit the number of days to 6,The fest in our college will be held for 5 days,Edit the number of days to 6,COMMAND
+I can complete the allotted work within 2 monthsRevise the duration to 3 months,I can complete the allotted work within 2 months,Revise the duration to 3 months,COMMAND
+One should wait at least 5 months to avail driving license if he has learning licenseUpdate the duration to 6 months,One should wait at least 5 months to avail driving license if he has learning license,Update the duration to 6 months,COMMAND
+Almost 6 trains pass by the platform in 1 hours.Alter the duration by 2 hours,Almost 6 trains pass by the platform in 1 hours.,Alter the duration by 2 hours,COMMAND
+The meeting duration would be 2 hours and will be held in platinum jubileeChange the duration to 1.5 hrs,The meeting duration would be 2 hours and will be held in platinum jubilee,Change the duration to 1.5 hrs,COMMAND
+I have lived in this city for 2 years and I think I know each road.Replace the years to 4 years,I have lived in this city for 2 years and I think I know each road.,Replace the years to 4 years,COMMAND
+The gmeet will be scheduled on 7th of May and at 6pmModify the date to 8 th May,The gmeet will be scheduled on 7th of May and at 6pm,Modify the date to 8 th May,COMMAND
+The event is going to happen at 1 st of every month and for 2 hoursAlter the date to 2nd,The event is going to happen at 1 st of every month and for 2 hours,Alter the date to 2nd,COMMAND
+The admission for the BMSCE college will open at 10th of DecemberUpdate the day to 12,The admission for the BMSCE college will open at 10th of December,Update the day to 12,COMMAND
+The event which was to be held on 13 of this moth will be postponed to 15thModify the new date to 18th,The event which was to be held on 13 of this moth will be postponed to 15th,Modify the new date to 18th,COMMAND
+The doctor has asked me to visit his clinic at 12th of Jan for normal checkupRevise the date to 15th Jan,The doctor has asked me to visit his clinic at 12th of Jan for normal checkup,Revise the date to 15th Jan,COMMAND
+9th August 1945 marks the worst day for Hiroshima and NagasakiCorrect the date to 10th August 1956,9th August 1945 marks the worst day for Hiroshima and Nagasaki,Correct the date to 10th August 1956,COMMAND
+My project deadline is 12/12/2022 and I should hurry upAlter the deadline to 20/12/2022,My project deadline is 12/12/2022 and I should hurry up,Alter the deadline to 20/12/2022,COMMAND
+I have left this company at 10/3/2022 due to poor wagesChange the date to 19/2/2022,I have left this company at 10/3/2022 due to poor wages,Change the date to 19/2/2022,COMMAND
+Today’s date is 15/4/2023Correct the date to 19/4/2023,Today’s date is 15/4/2023,Correct the date to 19/4/2023,COMMAND
+It’s almost 9 past 10 in the clockModify hours time to 10,It’s almost 9 past 10 in the clock,Modify hours time to 10,COMMAND
+Please arrive to this hotel at 2 pm for lunchConvert time to 1pm,Please arrive to this hotel at 2 pm for lunch,Convert time to 1pm,COMMAND
+The meeting will start at 4 pm and will continue till 8pmChange start time to 6pm,The meeting will start at 4 pm and will continue till 8pm,Change start time to 6pm,COMMAND
+Humans at least need 30 seconds to get update to dark from lightChange time to 40 seconds,Humans at least need 30 seconds to get update to dark from light,Change time to 40 seconds,COMMAND
+I should start getting up early in the morning that is at 6 amAlter the time to 5 am,I should start getting up early in the morning that is at 6 am,Alter the time to 5 am,COMMAND
+The bus will arrive exactly 10 mins from nowCorrect the time to 20 mins,The bus will arrive exactly 10 mins from now,Correct the time to 20 mins,COMMAND
+Try to complete the work by 10pm todayRevise the time by 11pm,Try to complete the work by 10pm today,Revise the time by 11pm,COMMAND
+It’s almost 6pm now they will arrive here by 2 hoursChange the current time to 8pm,It’s almost 6pm now they will arrive here by 2 hours,Change the current time to 8pm,COMMAND
+Paris is located in FranceChange the country to Italy,Paris is located in France,Change the country to Italy,COMMAND
+I used to work in USA as software engineer in MicrosoftChange country to Germany,I used to work in USA as software engineer in Microsoft,Change country to Germany,COMMAND
+It is proved that most of the Americans consume fast foodChange the country to Italians,It is proved that most of the Americans consume fast food,Change the country to Italians,COMMAND
+Sushi is the popular dish originated in China and is madeModify the country to Japan,Sushi is the popular dish originated in China and is made,Modify the country to Japan,COMMAND
+A Nigerian Kid has applied for admission in our college for BEAlter Nigerian to American,A Nigerian Kid has applied for admission in our college for BE,Alter Nigerian to American,COMMAND
+Chess also called as Chaturanga was originated at NepalChange country to India,Chess also called as Chaturanga was originated at Nepal,Change country to India,COMMAND
+Microsoft is an USA originated Product based Multi National CompanyChange the country to England,Microsoft is an USA originated Product based Multi National Company,Change the country to England,COMMAND
+He was travelling from North Korea to JapanChange Source to South Korea,He was travelling from North Korea to Japan,Change Source to South Korea,COMMAND
+Pasta has been everyone’s favourite dish originated at SpainChange Country to Italy,Pasta has been everyone’s favourite dish originated at Spain,Change Country to Italy,COMMAND
+Ramesh has borrowed almost 5 lakhs from bank and need to repay by 2 yearsAlter the amount to 6 lakhs,Ramesh has borrowed almost 5 lakhs from bank and need to repay by 2 years,Alter the amount to 6 lakhs,COMMAND
+ABC company have almost invested 1000 cr rupees on this projectUpdate the amount to 900 cr rupees,ABC company have almost invested 1000 cr rupees on this project,Update the amount to 900 cr rupees,COMMAND
+"Your account balance is fetched, it’s 250 rs and 50 paisaModify 250 rs to 500","Your account balance is fetched, it’s 250 rs and 50 paisa",Modify 250 rs to 500,COMMAND
+10rs as of now would be 20rs after 2 years due to inflationSubstitute later amount to 18rs,10rs as of now would be 20rs after 2 years due to inflation,Substitute later amount to 18rs,COMMAND
+1$ is almost 80rs in Indian currencyChange 80rs to 85rs,1$ is almost 80rs in Indian currency,Change 80rs to 85rs,COMMAND
+The bus fare to travel from Bangalore to Mysore is 200rs onlyChange the fare change to 300rs,The bus fare to travel from Bangalore to Mysore is 200rs only,Change the fare change to 300rs,COMMAND
+Difference between train and bus fare is 100rs to travel to XYZModify the difference value to 150 rs,Difference between train and bus fare is 100rs to travel to XYZ,Modify the difference value to 150 rs,COMMAND
+Entry fee for the amusement park has been increased by 200 rs for the adultsCorrect the amount to 300rs,Entry fee for the amusement park has been increased by 200 rs for the adults,Correct the amount to 300rs,COMMAND
+"A software engineer on an average in India can earn up to 50,000 rs per month.Update the income by 60,000rs","A software engineer on an average in India can earn up to 50,000 rs per month.","Update the income by 60,000rs",COMMAND
+The number of roosters domesticated by the farmer is 20Change the count to 30,The number of roosters domesticated by the farmer is 20,Change the count to 30,COMMAND
+JEE is being conducted 2 times a year to provide opportunities for the studentModify number to 3 times,JEE is being conducted 2 times a year to provide opportunities for the student,Modify number to 3 times,COMMAND
+To reach destination the bus will at least stop at 10 bus stops at middle.Update count to 13,To reach destination the bus will at least stop at 10 bus stops at middle.,Update count to 13,COMMAND
+The number plate of my car ends with 37Substitute the number to 34,The number plate of my car ends with 37,Substitute the number to 34,COMMAND
+The value of pi is constant and it’s value is 3.3Revise the value to 3.14,The value of pi is constant and it’s value is 3.3,Revise the value to 3.14,COMMAND
+Number of sides in a quadrilateral is 6Alter the count to 4,Number of sides in a quadrilateral is 6,Alter the count to 4,COMMAND
+Benzene is a hydrocarbon compound and it has 7carbon’sModify carbon count to 6,Benzene is a hydrocarbon compound and it has 7carbon’s,Modify carbon count to 6,COMMAND
+"There are almost 5 people in the queue, I think it might take time so that I can get my turnChange number of people to 7","There are almost 5 people in the queue, I think it might take time so that I can get my turn",Change number of people to 7,COMMAND
+You should mix milk and sugar with 10:1 ratio and it can be differedCorrect the ratio to 12:1,You should mix milk and sugar with 10:1 ratio and it can be differed,Correct the ratio to 12:1,COMMAND
+Almost 90% of the students wont be attending the classes due to phase shift preparationChange percentage to 95%,Almost 90% of the students wont be attending the classes due to phase shift preparation,Change percentage to 95%,COMMAND
+I have got 95% in my SSLC ExamModify percentage to 96.32%,I have got 95% in my SSLC Exam,Modify percentage to 96.32%,COMMAND
+His score has been improved by 95% ever since he joined the tuitionCorrect the percentage to 96%,His score has been improved by 95% ever since he joined the tuition,Correct the percentage to 96%,COMMAND
+The percentage between class topper and second topper deferred by only 1%Alter difference to 0.5%,The percentage between class topper and second topper deferred by only 1%,Alter difference to 0.5%,COMMAND
+The interest lended is compounded with the interest of atleast 6%Substitute  the intereset to 7%,The interest lended is compounded with the interest of atleast 6%,Substitute  the intereset to 7%,COMMAND
+The probability that a coin will show up when a coin is tossed is 40%Change the percentage to 50%,The probability that a coin will show up when a coin is tossed is 40%,Change the percentage to 50%,COMMAND
+Rakesh was given an salary hike of 10% of the previous incomeRevise the percentage to 12%,Rakesh was given an salary hike of 10% of the previous income,Revise the percentage to 12%,COMMAND
+The percentage of rejected silver is often no more than 7%.Modify percentage to 10%,The percentage of rejected silver is often no more than 7%.,Modify percentage to 10%,COMMAND
+Rakesh brother’s name was sanjayRevise brother name to Rakshith,Rakesh brother’s name was sanjay,Revise brother name to Rakshith,COMMAND
+Mrs Meenakshi was history class teacher for us during 10th stdSubstitute name to gayatri,Mrs Meenakshi was history class teacher for us during 10th std,Substitute name to gayatri,COMMAND
+Hari was the father of GaganModify the father name to suraj,Hari was the father of Gagan,Modify the father name to suraj,COMMAND
+You should contact Mr Raj to know more about the contact details regarding HRChange name to Fazir,You should contact Mr Raj to know more about the contact details regarding HR,Change name to Fazir,COMMAND
+Suresh was maths class teacher for us during 10th stdCorrect name to Lokesh,Suresh was maths class teacher for us during 10th std,Correct name to Lokesh,COMMAND
+Harish was the main actor that acted in the filmAlter the name to Guna,Harish was the main actor that acted in the film,Alter the name to Guna,COMMAND
+"Here is the phone number for the nearest pizzeria, 989-898-9989Change the number to 878-787-8787","Here is the phone number for the nearest pizzeria, 989-898-9989",Change the number to 878-787-8787,COMMAND
+"Please take my phone number, 990-348-8345Correct last 2 digits to 34","Please take my phone number, 990-348-8345",Correct last 2 digits to 34,COMMAND
+Rakesh has changed his number from 676-767-8667 to 878-788-7878Substitute last 2 digits to 76,Rakesh has changed his number from 676-767-8667 to 878-788-7878,Substitute last 2 digits to 76,COMMAND
+I have updated my number from 45454545 to 898-989-899Modify the new number to 676-767-0677,I have updated my number from 45454545 to 898-989-899,Modify the new number to 676-767-0677,COMMAND
+"If you want rakesh phone number I have it, it’s 676-767-7676Alter the phone number to 999-999-8899","If you want rakesh phone number I have it, it’s 676-767-7676",Alter the phone number to 999-999-8899,COMMAND
+If you want to book cake in sweet shop please dial 455-554-6444Correct the number to 787-87-8878,If you want to book cake in sweet shop please dial 455-554-6444,Correct the number to 787-87-8878,COMMAND
+"Yoga, an ancient practice originated in Nepal and is known for its physical and mental benefits.Change country to India","Yoga, an ancient practice originated in Nepal and is known for its physical and mental benefits.",Change country to India,COMMAND
+Paris is the capital of Spain Update Paris to Madrid,Paris is the capital of Spain ,Update Paris to Madrid,COMMAND
+I've previously worked as an engineer at Toyota in Japan Change Country to China,I've previously worked as an engineer at Toyota in Japan ,Change Country to China,COMMAND
+The kimchi is a popular dish originated in Korea and is made with fermented vegetables. Alter Korea to South Korea,The kimchi is a popular dish originated in Korea and is made with fermented vegetables. ,Alter Korea to South Korea,COMMAND
+The famous Pyramids of Giza are located in Africa. Correct the country to Egypt,The famous Pyramids of Giza are located in Africa. ,Correct the country to Egypt,COMMAND
+I've worked as a teacher in China before. Replace China with India,I've worked as a teacher in China before. ,Replace China with India,COMMAND
+"Soccer, also known as football, is a popular sport originated in France. Change country to England","Soccer, also known as football, is a popular sport originated in France. ",Change country to England,COMMAND
+He saved $500 by couponing and budgeting himself. Change $500 to 1000 dollars,He saved $500 by couponing and budgeting himself. ,Change $500 to 1000 dollars,COMMAND
+The government spent $50 million on infrastructure. Increase $50 million to 65 million,The government spent $50 million on infrastructure. ,Increase $50 million to 65 million,COMMAND
+She made $50 an hour as a freelancer. Alter $50 to $60,She made $50 an hour as a freelancer. ,Alter $50 to $60,COMMAND
+He invested ten thousand ruppee in a diverse portfolio himself. Change ₹10000 into ₹20000,He invested ten thousand ruppee in a diverse portfolio himself. ,Change ₹10000 into ₹20000,COMMAND
+The company lost $1 million due to mismanagement. Change money to $2 million,The company lost $1 million due to mismanagement. ,Change money to $2 million,COMMAND
+Can I please borrow 500 dollars from you? Change 500 dollars to 100 dollars.,Can I please borrow 500 dollars from you? ,Change 500 dollars to 100 dollars.,COMMAND
+I bought a phone for ₹15000. Change money to ₹10000,I bought a phone for ₹15000. ,Change money to ₹10000,COMMAND
+"Originally priced at $29, the sweater was sold for five dollars. Change $5 to $7","Originally priced at $29, the sweater was sold for five dollars. ",Change $5 to $7,COMMAND
+He removed a hundred dollar bill from his money clip. Change money to two hundred dollar,He removed a hundred dollar bill from his money clip. ,Change money to two hundred dollar,COMMAND
+We have no money. Change money to time,We have no money. ,Change money to time,COMMAND
+The number of days in a week are 7. Adjust the number to 5.,The number of days in a week are 7. ,Adjust the number to 5.,COMMAND
+"In soccer, the number of players on the field are 11.Alter the number to 9.","In soccer, the number of players on the field are 11.",Alter the number to 9.,COMMAND
+The number of known planets in our solar system is 8. Adjust it to 9.,The number of known planets in our solar system is 8. ,Adjust it to 9.,COMMAND
+Carbon atom has 6 electrons. Modify the number to 8,Carbon atom has 6 electrons. ,Modify the number to 8,COMMAND
+A trumpet has 3 valves. Adjust the number to 4,A trumpet has 3 valves. ,Adjust the number to 4,COMMAND
+"In a classification problem, the number of groups are 5. Modify the number to 3","In a classification problem, the number of groups are 5. ",Modify the number to 3,COMMAND
+The enrollment rate for the program has dropped by 85% in the past year. Change percentage to 80 percent,The enrollment rate for the program has dropped by 85% in the past year. ,Change percentage to 80 percent,COMMAND
+The company's market share in the industry has increased by 12% in the last quarter. Increase percentage is 14 percent,The company's market share in the industry has increased by 12% in the last quarter. ,Increase percentage is 14 percent,COMMAND
+The student's exam scores have improved by 20% since the new teaching method was implemented. Decrease percentage to 15%,The student's exam scores have improved by 20% since the new teaching method was implemented. ,Decrease percentage to 15%,COMMAND
+The difference in the number of votes between the first and second place candidate was only 3%. Modify percentage to 5%,The difference in the number of votes between the first and second place candidate was only 3%. ,Modify percentage to 5%,COMMAND
+The return on investment for the project is projected to be at least 9%. Update percentage to 12%,The return on investment for the project is projected to be at least 9%. ,Update percentage to 12%,COMMAND
+The company is offering a discount of 25% on all products. Change percentage to 20 percent,The company is offering a discount of 25% on all products. ,Change percentage to 20 percent,COMMAND
+The student's grade point average has improved by 0.5% from last semester Revise the percentage to 1.2%,The student's grade point average has improved by 0.5% from last semester ,Revise the percentage to 1.2%,COMMAND
+The company's stock price increased by 8% in the past quarter. Edit percentage to 10%,The company's stock price increased by 8% in the past quarter. ,Edit percentage to 10%,COMMAND
+The percentage of carbon emissions has been reduced by 10% in the last year. Swap 10% with 15%,The percentage of carbon emissions has been reduced by 10% in the last year. ,Swap 10% with 15%,COMMAND
+My sister's name is Priya Change name to Laksha,My sister's name is Priya ,Change name to Laksha,COMMAND
+Dr. Gupta was our Physics teacher during 12th std Modify teacher to Verma,Dr. Gupta was our Physics teacher during 12th std ,Modify teacher to Verma,COMMAND
+John is the CEO of the company Change CEO to Jack,John is the CEO of the company ,Change CEO to Jack,COMMAND
+You should talk to Ms. Patel for more information on the marketing campaign Alter name to Gupta,You should talk to Ms. Patel for more information on the marketing campaign ,Alter name to Gupta,COMMAND
+Mr. Khanna was my English teacher in college Change name to Anand,Mr. Khanna was my English teacher in college ,Change name to Anand,COMMAND
+My cousin's name is Rohit Correct the name to Sriram,My cousin's name is Rohit ,Correct the name to Sriram,COMMAND
+Professor Smith taught me Computer Science in university Change professor to John,Professor Smith taught me Computer Science in university ,Change professor to John,COMMAND
+Sarah is the HR manager at our company Update name to Aman,Sarah is the HR manager at our company ,Update name to Aman,COMMAND
+You should contact Mr. Singh for more information about the project deadline Change name to Mr. Kumar,You should contact Mr. Singh for more information about the project deadline ,Change name to Mr. Kumar,COMMAND
+My brother's name is Raj Revise the name to Vikas,My brother's name is Raj ,Revise the name to Vikas,COMMAND
+Jack is the CFO of the company Update CFO to Elon,Jack is the CFO of the company ,Update CFO to Elon,COMMAND
+You should talk to Ms. Williams for more information on the company's policy Change name to Ms. James,You should talk to Ms. Williams for more information on the company's policy ,Change name to Ms. James,COMMAND
+Mr. Rodriguez was my Spanish teacher in college Alter teacher name to Peter,Mr. Rodriguez was my Spanish teacher in college ,Alter teacher name to Peter,COMMAND
+"I've updated my contact information, my new number is 89898989. Modify phone number to 987654321","I've updated my contact information, my new number is 89898989. ",Modify phone number to 987654321,COMMAND
+"If you need Abhishek's phone number, I have it on hand, it's 676767676. Alter number to 89898989","If you need Abhishek's phone number, I have it on hand, it's 676767676. ",Alter number to 89898989,COMMAND
+"If you're looking to order a cake from the sweet shop, you can reach them at 455554444. Update phone number to 989898989","If you're looking to order a cake from the sweet shop, you can reach them at 455554444. ",Update phone number to 989898989,COMMAND
+My new contact number is 9903488345. Correct the number to 45454545,My new contact number is 9903488345. ,Correct the number to 45454545,COMMAND
+"I've updated my number, you can reach me on 89898989. Edit number to 989898989","I've updated my number, you can reach me on 89898989. ",Edit number to 989898989,COMMAND
+If you want to book a table at a restaurant please call 987654321. Revise number to 987654321,If you want to book a table at a restaurant please call 987654321. ,Revise number to 987654321,COMMAND
+You can reach florist on 45454545. Change number to 987654321,You can reach florist on 45454545. ,Change number to 987654321,COMMAND
+"If you are looking for the nearest Barber Shop, the number is 989898989. Replace 989898989 with 45454545","If you are looking for the nearest Barber Shop, the number is 989898989. ",Replace 989898989 with 45454545,COMMAND
+You can reach the Gift Shop on 8787887878. Alter number to 9903488345,You can reach the Gift Shop on 8787887878. ,Alter number to 9903488345,COMMAND
+The nearest Ice cream parlor can be reached on 9903488345. Change phone number 989898989,The nearest Ice cream parlor can be reached on 9903488345. ,Change phone number 989898989,COMMAND
+The CS Department has 3 laboratoriesUpdate number to 14,The CS Department has 3 laboratories,Update number to 14,COMMAND
+Every hour has 70 minutes.Modify duration to 60,Every hour has 70 minutes.,Modify duration to 60,COMMAND
+I need to travel 5kms to reach college.Edit distance to 4.,I need to travel 5kms to reach college.,Edit distance to 4.,COMMAND
+The college has approximately 100 teachers.Rewrite 100 to 175.,The college has approximately 100 teachers.,Rewrite 100 to 175.,COMMAND
+The cake cost 500 rupees.Update money to 550.,The cake cost 500 rupees.,Update money to 550.,COMMAND
+There are 50 students in a class.Change the number of students to 60.,There are 50 students in a class.,Change the number of students to 60.,COMMAND
+The building is 100 feet tall.Modify height to 150.,The building is 100 feet tall.,Modify height to 150.,COMMAND
+ The interest rate for the loan is 10%.Change percentage to 15%, The interest rate for the loan is 10%.,Change percentage to 15%,COMMAND
+ I bought 3 pens.Rewrite 3 to 5., I bought 3 pens.,Rewrite 3 to 5.,COMMAND
+"The dance show commences at 3:30 pm and doors open at 2:30 pm on Saturday, April 19th.Update date to April 20th","The dance show commences at 3:30 pm and doors open at 2:30 pm on Saturday, April 19th.",Update date to April 20th,COMMAND
+"Meeting is scheduled on Monday,December 25th.Change date to January 16th.","Meeting is scheduled on Monday,December 25th.",Change date to January 16th.,COMMAND
+"The grocery store is closed on holidays, including Thanksgiving and Easter.Rewrite Easter toNew year’s Eve.","The grocery store is closed on holidays, including Thanksgiving and Easter.",Rewrite Easter toNew year’s Eve.,COMMAND
+My DOB is 5th January 2005Update year to 2002.,My DOB is 5th January 2005,Update year to 2002.,COMMAND
+"The bus to Bengaluru leaves at 8:00 pm on wednesday, June 1st.Update date to June2nd.","The bus to Bengaluru leaves at 8:00 pm on wednesday, June 1st.",Update date to June2nd.,COMMAND
+"The deadline for evaluating the progress report is Saturday, April 13th at 6pm.Modify date to April 15th.","The deadline for evaluating the progress report is Saturday, April 13th at 6pm.",Modify date to April 15th.,COMMAND
+"I have a holiday on Tuesday, April 10th.Change date to Wednesday, April 11th.","I have a holiday on Tuesday, April 10th.","Change date to Wednesday, April 11th.",COMMAND
+"The movie is scheduled to release on Monday,March 25th.Change Monday March 5th toFriday,March 9th.","The movie is scheduled to release on Monday,March 25th.","Change Monday March 5th toFriday,March 9th.",COMMAND
+"The college opens at 8:00 am and closes at 5:00 pm on everyday,except for Sundays when it closes at 1:00 pm.Revise day to Saturday.","The college opens at 8:00 am and closes at 5:00 pm on everyday,except for Sundays when it closes at 1:00 pm.",Revise day to Saturday.,COMMAND
+The movie starts at 1:00 pm and ends at 3:00 pm on Thursday.Change Thursday to Friday.,The movie starts at 1:00 pm and ends at 3:00 pm on Thursday.,Change Thursday to Friday.,COMMAND
+My breakfast time is 8:00 AM.Modify time to 8:30 AM.,My breakfast time is 8:00 AM.,Modify time to 8:30 AM.,COMMAND
+The party starts at 11:00 PM .Edit time to 10:30 PM.,The party starts at 11:00 PM .,Edit time to 10:30 PM.,COMMAND
+The pharmacy opens at 8:00 AM every morning.Update time to 9:00 AM,The pharmacy opens at 8:00 AM every morning.,Update time to 9:00 AM,COMMAND
+I usually go for a walk at 6:00 AM on weekdays.Edit 6:00 AM to 7:00 AM,I usually go for a walk at 6:00 AM on weekdays.,Edit 6:00 AM to 7:00 AM,COMMAND
+I have a Doctor appointment at 3:00 PM.Change 3:00 PM to 4:00 PM,I have a Doctor appointment at 3:00 PM.,Change 3:00 PM to 4:00 PM,COMMAND
+The bus departs at 8:00 PM tomorrow night.Modify 8:00 PM to 9:00 PM,The bus departs at 8:00 PM tomorrow night.,Modify 8:00 PM to 9:00 PM,COMMAND
+I usually sleep at 9:30 PM.Modify time to 10:30PM,I usually sleep at 9:30 PM.,Modify time to 10:30PM,COMMAND
+Lunch will be ready by 2:00 PM.Amend time to 1:00 PM,Lunch will be ready by 2:00 PM.,Amend time to 1:00 PM,COMMAND
+. The football starts at 8:00 PM and is 90 minutes long.Edit time to 7:30 PM,. The football starts at 8:00 PM and is 90 minutes long.,Edit time to 7:30 PM,COMMAND
+The Temple is open from 6:00 AM to 6:00 PM.Update 6:00 PM to 8:00 PM,The Temple is open from 6:00 AM to 6:00 PM.,Update 6:00 PM to 8:00 PM,COMMAND
+The dress store is offering a 25% discount on all sales.Revise percentage to 35.,The dress store is offering a 25% discount on all sales.,Revise percentage to 35.,COMMAND
+The price of the plot has increased by 15% since it was last on the Market.Rewrite percentage to 10.,The price of the plot has increased by 15% since it was last on the Market.,Rewrite percentage to 10.,COMMAND
+The match winning percentage is 50%.Rewrite 50 to 90.,The match winning percentage is 50%.,Rewrite 50 to 90.,COMMAND
+I scored a grade of 80% in the SSLC examination.Update percentage to 90,I scored a grade of 80% in the SSLC examination.,Update percentage to 90,COMMAND
+The population density has declined by 0.5% in the last decade.Modify percentage to 0.75.,The population density has declined by 0.5% in the last decade.,Modify percentage to 0.75.,COMMAND
+The test product has a failure rate of 15%.Edit percentage to 5.,The test product has a failure rate of 15%.,Edit percentage to 5.,COMMAND
+The company's sales increased by 10% last year.Change 10 to 20.,The company's sales increased by 10% last year.,Change 10 to 20.,COMMAND
+The number of attendees of the function the event increased by 5% from the Last year.Update percentage to 15.,The number of attendees of the function the event increased by 5% from the Last year.,Update percentage to 15.,COMMAND
+The percentage of women completing high school is 95 percent .Change 95 to 90.,The percentage of women completing high school is 95 percent .,Change 95 to 90.,COMMAND
+The percentage of Success rate of test results increased by 5%.Change 5 to 6.,The percentage of Success rate of test results increased by 5%.,Change 5 to 6.,COMMAND
+My personal contact number is 789-034 3565.Update 789-034-356-5 to789-034-355-7.,My personal contact number is 789-034 3565.,Update 789-034-356-5 to789-034-355-7.,COMMAND
+"I lost my phone, can you call me at 789-034-356-5.?Revise 789-034-356-5.to 789-034-4444.","I lost my phone, can you call me at 789-034-356-5.?",Revise 789-034-356-5.to 789-034-4444.,COMMAND
+Customer service number is 999-999-9999.Modify contact to 555-555-9999.,Customer service number is 999-999-9999.,Modify contact to 555-555-9999.,COMMAND
+You can reach me at 689-034 356-5.Update number to 555-034 356-5,You can reach me at 689-034 356-5.,Update number to 555-034 356-5,COMMAND
+The emergency contact phone number is 555-655-7999.Update phone number to 555-655-8888.,The emergency contact phone number is 555-655-7999.,Update phone number to 555-655-8888.,COMMAND
+Call at emergency assistance 811 to get help.Change number to 911.,Call at emergency assistance 811 to get help.,Change number to 911.,COMMAND
+Contact me at 789-034 3565.Modify phone number to 789-034 3564.,Contact me at 789-034 3565.,Modify phone number to 789-034 3564.,COMMAND
+Ravi’s phone number is 655-655-8888.Update 655-655-8888 to 555-655-8888,Ravi’s phone number is 655-655-8888.,Update 655-655-8888 to 555-655-8888,COMMAND
+Contact me at phone number 555-555-6666 for any assistance.Update number to 555-666-7788.,Contact me at phone number 555-555-6666 for any assistance.,Update number to 555-666-7788.,COMMAND
+Reach out at789-034-4444.Modify phone number to789-034-5555.,Reach out at789-034-4444.,Modify phone number to789-034-5555.,COMMAND
+Cathy loves the weekends in the country.Change name to Rose.,Cathy loves the weekends in the country.,Change name to Rose.,COMMAND
+Ram is a student.Update name to Ravi.,Ram is a student.,Update name to Ravi.,COMMAND
+Maria is a professor at the University.Edit Melissa to Bhuvana.,Maria is a professor at the University.,Edit Melissa to Bhuvana.,COMMAND
+"Microsoft is an American multinational technology company headquartered in California, United States.Update title to Apple Inc.","Microsoft is an American multinational technology company headquartered in California, United States.",Update title to Apple Inc.,COMMAND
+Google App Engine is a multilingual free online encyclopedia.Modify name to Wikipedia.,Google App Engine is a multilingual free online encyclopedia.,Modify name to Wikipedia.,COMMAND
+The WHO is an international organization committed to maintaining international peace and security.Update WHO to UNO.,The WHO is an international organization committed to maintaining international peace and security.,Update WHO to UNO.,COMMAND
+REST is an important protocol that helped introduce the widespread use of Web Services.Revise REST to SOAP.,REST is an important protocol that helped introduce the widespread use of Web Services.,Revise REST to SOAP.,COMMAND
+Stefan is a Scientist at Caltech University.Update name to Sharon.,Stefan is a Scientist at Caltech University.,Update name to Sharon.,COMMAND
+OOPS is a computerized data-keeping System.Modify OOPS to DBMS.,OOPS is a computerized data-keeping System.,Modify OOPS to DBMS.,COMMAND
+COA is the program that manages all of the other application programs in a computer.Edit name to OS.,COA is the program that manages all of the other application programs in a computer.,Edit name to OS.,COMMAND
+My favorite color is Pink.Update color to Blue.,My favorite color is Pink.,Update color to Blue.,COMMAND
+He wore a Blue shirt today.Edit black to Pink.,He wore a Blue shirt today.,Edit black to Pink.,COMMAND
+The sky was blue today.Revise blue to grey.,The sky was blue today.,Revise blue to grey.,COMMAND
+The room was painted yellow.Correct color to green,The room was painted yellow.,Correct color to green,COMMAND
+My neighbour bought a new blue car.Edit black to white,My neighbour bought a new blue car.,Edit black to white,COMMAND
+She wore an orange dress.Change color to red,She wore an orange dress.,Change color to red,COMMAND
+Black is the mixture of all colours.Alter color to white,Black is the mixture of all colours.,Alter color to white,COMMAND
+White is absence of colour.Change color to black,White is absence of colour.,Change color to black,COMMAND
+Pink absorbs the most.Modify color to Black,Pink absorbs the most.,Modify color to Black,COMMAND
+Mangoes are purple when they are ripe.Alter color to green,Mangoes are purple when they are ripe.,Alter color to green,COMMAND
+She has a nephew who is just ten years of age.Convert age to 20.,She has a nephew who is just ten years of age.,Convert age to 20.,COMMAND
+The Oldest Monument is over 300 years old.Modify 300 to 700.,The Oldest Monument is over 300 years old.,Modify 300 to 700.,COMMAND
+The minimum age to vote is 20.Change age to 18.,The minimum age to vote is 20.,Change age to 18.,COMMAND
+My Birthday is next month and I will be 20 years old.Edit years to twenty-one.,My Birthday is next month and I will be 20 years old.,Edit years to twenty-one.,COMMAND
+The minimum age requirement is 12 years.Alter age to 10 years,The minimum age requirement is 12 years.,Alter age to 10 years,COMMAND
+The median patient age was 63 years.Update age to 59 years,The median patient age was 63 years.,Update age to 59 years,COMMAND
+Eight male volunteers aged 21 participated.Swap age to 19,Eight male volunteers aged 21 participated.,Swap age to 19,COMMAND
+Premium rate is level until age 67.Correct age to 69,Premium rate is level until age 67.,Correct age to 69,COMMAND
+The average student age is 28 years.Exchange age to 29 years.,The average student age is 28 years.,Exchange age to 29 years.,COMMAND
+For kids age 4 through 6th grade.Change age to 10,For kids age 4 through 6th grade.,Change age to 10,COMMAND
+He lives in Canada.Alter place to India,He lives in Canada.,Alter place to India,COMMAND
+BMS college is located at Kundapura.Change place to Bengaluru.,BMS college is located at Kundapura.,Change place to Bengaluru.,COMMAND
+Marina beach is at Kolkatta.Edit place to Chennai,Marina beach is at Kolkatta.,Edit place to Chennai,COMMAND
+TajMahal is located at Mysore.Change place to Agra,TajMahal is located at Mysore.,Change place to Agra,COMMAND
+Hyderabad is capital of Goa.Swap place to Panaji.,Hyderabad is capital of Goa.,Swap place to Panaji.,COMMAND
+Goa is famous of monuments.Edit place to Hampi.,Goa is famous of monuments.,Edit place to Hampi.,COMMAND
+Chikpet is the nearest Metro Statio.Change place to National college,Chikpet is the nearest Metro Statio.,Change place to National college,COMMAND
+Kochi is the garden city of India.Modify place to Bengaluru,Kochi is the garden city of India.,Modify place to Bengaluru,COMMAND
+Eden Garden cricket stadium is located 25kms from here.Change place to Chinnaswamy,Eden Garden cricket stadium is located 25kms from here.,Change place to Chinnaswamy,COMMAND
+Goa is the capital of India.Change Goa to Delhi,Goa is the capital of India.,Change Goa to Delhi,COMMAND
+Mullayanagiri is the biggest trek of Karnataka.Change place to Kumaraparvatha,Mullayanagiri is the biggest trek of Karnataka.,Change place to Kumaraparvatha,COMMAND
+Yogaraj Bhat lives in Shivamogga.Change place to Bengaluru,Yogaraj Bhat lives in Shivamogga.,Change place to Bengaluru,COMMAND
+We do warm up for 40 minutes.Change duration to 15 minutes,We do warm up for 40 minutes.,Change duration to 15 minutes,COMMAND
+He can do plank for 80 seconds.Alter duration to 100 seconds,He can do plank for 80 seconds.,Alter duration to 100 seconds,COMMAND
+Each period is for 60 minutes.Update duration to 55 minutes,Each period is for 60 minutes.,Update duration to 55 minutes,COMMAND
+Leap year has 366 days.Swap duration to 365 days,Leap year has 366 days.,Swap duration to 365 days,COMMAND
+Solar eclipse is for 30 minutes.Change duration to 20 minutes.,Solar eclipse is for 30 minutes.,Change duration to 20 minutes.,COMMAND
+Mam takes extra 10 minutes after bell.Change duration to 2 minutes,Mam takes extra 10 minutes after bell.,Change duration to 2 minutes,COMMAND
+Students come 10 minutes late to class.Change duration to 15 minutes.,Students come 10 minutes late to class.,Change duration to 15 minutes.,COMMAND
+There are 8 days in a week.Edit duration to 7 days,There are 8 days in a week.,Edit duration to 7 days,COMMAND
+Chief guest will arrive in 10 minutes.Alter duration to 5 minutes,Chief guest will arrive in 10 minutes.,Alter duration to 5 minutes,COMMAND
+It takes 5 seconds for the code to get uploaded.Change duration to 2 seconds,It takes 5 seconds for the code to get uploaded.,Change duration to 2 seconds,COMMAND
+She has been a teacher for over 30 years.Change 30 to 35,She has been a teacher for over 30 years.,Change 30 to 35,COMMAND
+My grandmother celebrated her ninety-fifth birthday last year.Alter year to ninety-second,My grandmother celebrated her ninety-fifth birthday last year.,Alter year to ninety-second,COMMAND
+We've been friends for nearly ten years now.Replace ten with twelve,We've been friends for nearly ten years now.,Replace ten with twelve,COMMAND
+She graduated college when she was 20 years old.Update age to 25,She graduated college when she was 20 years old.,Update age to 25,COMMAND
+My grandmother is 90 years old and still going strong!Swap 90 with 95,My grandmother is 90 years old and still going strong!,Swap 90 with 95,COMMAND
+I was twelve years old when I first visited Italy.Correct twelve to ten,I was twelve years old when I first visited Italy.,Correct twelve to ten,COMMAND
+"By the time I reach my 30th birthday, I will be 10 years older than I am now.Amend 30 to 32","By the time I reach my 30th birthday, I will be 10 years older than I am now.",Amend 30 to 32,COMMAND
+He was only two years old when his parents divorced.Update age to 4,He was only two years old when his parents divorced.,Update age to 4,COMMAND
+My daughter is eight years old and loves to play the violin.Change age to ten years old,My daughter is eight years old and loves to play the violin.,Change age to ten years old,COMMAND
+My sister is sixty-five years old and still plays golf on the weekends.Replace 65 with 70,My sister is sixty-five years old and still plays golf on the weekends.,Replace 65 with 70,COMMAND
+London is one of the most iconic cities in the world.Convert London to New York,London is one of the most iconic cities in the world.,Convert London to New York,COMMAND
+The Lebanon Eye is one of the city's most recognizable attractions.Change city to London,The Lebanon Eye is one of the city's most recognizable attractions.,Change city to London,COMMAND
+ Big Ben is a Paris landmark known for its impressive clock tower.Replace Paris with London, Big Ben is a Paris landmark known for its impressive clock tower.,Replace Paris with London,COMMAND
+The Houses of Parliament are among the most important buildings in Bangalore.Edit city to London,The Houses of Parliament are among the most important buildings in Bangalore.,Edit city to London,COMMAND
+Kyoto is the bustling capital of Japan.Modify the city to Japan,Kyoto is the bustling capital of Japan.,Modify the city to Japan,COMMAND
+Many people visit Beijing’'s many amazing attractions every year.Amend Beijing to Tokyo,Many people visit Beijing’'s many amazing attractions every year.,Amend Beijing to Tokyo,COMMAND
+Perth is well known for its amazing sushi restaurants.Edit Perth to Tokyo,Perth is well known for its amazing sushi restaurants.,Edit Perth to Tokyo,COMMAND
+The bustling streets of Seoul can be quite overwhelming to first-time visitors.Convert Seoul to Tokyo,The bustling streets of Seoul can be quite overwhelming to first-time visitors.,Convert Seoul to Tokyo,COMMAND
+The tech industry in Mumbai has exploded in recent years and is becoming one of India’s leading cities.Modify the city to bangalore,The tech industry in Mumbai has exploded in recent years and is becoming one of India’s leading cities.,Modify the city to bangalore,COMMAND
+ My brother recently moved to Chennai to take a job in the IT sector.Exchange Chennai with Bangalore, My brother recently moved to Chennai to take a job in the IT sector.,Exchange Chennai with Bangalore,COMMAND
+The walls in the nursery were painted a soft pink.Modify colour to blue,The walls in the nursery were painted a soft pink.,Modify colour to blue,COMMAND
+She wore a pink blouse with a pair of black jeans.Update pink to black,She wore a pink blouse with a pair of black jeans.,Update pink to black,COMMAND
+ The sunset over the sea was a beautiful mix of orange and yellow.Exchange yellow with pink, The sunset over the sea was a beautiful mix of orange and yellow.,Exchange yellow with pink,COMMAND
+There were pink rose petals scattered on the path.Edit the colour to red,There were pink rose petals scattered on the path.,Edit the colour to red,COMMAND
+The leaves on the tree were a vibrant mix of green and purple.Alter purple to orange,The leaves on the tree were a vibrant mix of green and purple.,Alter purple to orange,COMMAND
+ She finished the mural with a contrasting streak of green and purple.Exchange purple with red, She finished the mural with a contrasting streak of green and purple.,Exchange purple with red,COMMAND
+"She pulled out two pieces of yarn, one green and one purple, to start working on her latest scarf project.Substitute green with yellow","She pulled out two pieces of yarn, one green and one purple, to start working on her latest scarf project.",Substitute green with yellow,COMMAND
+The bright red colour of the car made it stand out from the rest.Update colour to orange,The bright red colour of the car made it stand out from the rest.,Update colour to orange,COMMAND
+" His favourite colour was a light blue, like the night sky.Edit the colour to a dark blue colour"," His favourite colour was a light blue, like the night sky.",Edit the colour to a dark blue colour,COMMAND
+The UK is the largest democracy in the world.Alter the UK to India,The UK is the largest democracy in the world.,Alter the UK to India,COMMAND
+"China has two main religions, Hinduism and Islam.Update the country to India","China has two main religions, Hinduism and Islam.",Update the country to India,COMMAND
+ The Taj Mahal is a beautiful monument located in Japan.Modify Japan to India, The Taj Mahal is a beautiful monument located in Japan.,Modify Japan to India,COMMAND
+ Britain won independence from Britain in 1947.Change the first occurrence of Britain to India, Britain won independence from Britain in 1947.,Change the first occurrence of Britain to India,COMMAND
+The Russian War was an extremely costly conflict that ended in 1975.Amend Russia to Vietnam,The Russian War was an extremely costly conflict that ended in 1975.,Amend Russia to Vietnam,COMMAND
+"In 1954, the French were defeated at the Battle of Dien Bien Phu in France.Change the country to Vietnam","In 1954, the French were defeated at the Battle of Dien Bien Phu in France.",Change the country to Vietnam,COMMAND
+Vietnam has become a popular tourist destination in recent years.Modify country to Thailand,Vietnam has become a popular tourist destination in recent years.,Modify country to Thailand,COMMAND
+"The capital of India is Washington, D.C.Edit the country from India to United States","The capital of India is Washington, D.C.",Edit the country from India to United States,COMMAND
+South Korea remains largely isolated from the rest of the world.Replace the country with North Korea,South Korea remains largely isolated from the rest of the world.,Replace the country with North Korea,COMMAND
+The United States eventually withdrew its troops from China in 1972.Alter China to Vietnam,The United States eventually withdrew its troops from China in 1972.,Alter China to Vietnam,COMMAND
+The date on the invitation was June 25th.Alter the date to 27th May,The date on the invitation was June 25th.,Alter the date to 27th May,COMMAND
+They were set to have their first date this Friday.His birthday is in August.Edit August to October,They were set to have their first date this Friday.His birthday is in August.,Edit August to October,COMMAND
+September is the eighth month of the year.Change September to August,September is the eighth month of the year.,Change September to August,COMMAND
+"On 9th November 1989, the Berlin Wall fell.Change the date to 19th November","On 9th November 1989, the Berlin Wall fell.",Change the date to 19th November,COMMAND
+The Battle of Jutland was fought on 9th November 1916.Swap 9th November 1916 to 10th December 1920,The Battle of Jutland was fought on 9th November 1916.,Swap 9th November 1916 to 10th December 1920,COMMAND
+My birthday is 9th November.Edit the date to 13th February,My birthday is 9th November.,Edit the date to 13th February,COMMAND
+6th January 2011 is the date of the next national election.Substitute 6th January with 18th January,6th January 2011 is the date of the next national election.,Substitute 6th January with 18th January,COMMAND
+The 22th January is a holiday in many parts of India.Change 22 to 26,The 22th January is a holiday in many parts of India.,Change 22 to 26,COMMAND
+The President of India hoists the national flag on the occasion of 26th February every year.Update month to January,The President of India hoists the national flag on the occasion of 26th February every year.,Update month to January,COMMAND
+February 11th is the first day of the year for me.Modify February 11th to January 11th,February 11th is the first day of the year for me.,Modify February 11th to January 11th,COMMAND
+We have a meeting scheduled for 9:00 A.M.Modify time to 10 AM,We have a meeting scheduled for 9:00 A.M.,Modify time to 10 AM,COMMAND
+"In the morning, I usually wake up around 7:00 A.M.Update 7 AM to 9 AM","In the morning, I usually wake up around 7:00 A.M.",Update 7 AM to 9 AM,COMMAND
+She likes to go jogging before sunrise at 5:00 A.M.Edit 5 to 6,She likes to go jogging before sunrise at 5:00 A.M.,Edit 5 to 6,COMMAND
+The ceremony will start at 11:00 A.M. sharp.Swap 11 AM with 10 AM,The ceremony will start at 11:00 A.M. sharp.,Swap 11 AM with 10 AM,COMMAND
+The deadline is 8:00 AM tomorrow morning.Convert 8 to 9,The deadline is 8:00 AM tomorrow morning.,Convert 8 to 9,COMMAND
+ We are meeting at the park at 10:00 AM.Alter the time to 11, We are meeting at the park at 10:00 AM.,Alter the time to 11,COMMAND
+Please join me for a meeting at 3 P.M.Correct PM to AM,Please join me for a meeting at 3 P.M.,Correct PM to AM,COMMAND
+The store closes at 9 P.M.Amend 9 PM to 10 PM,The store closes at 9 P.M.,Amend 9 PM to 10 PM,COMMAND
+I will be home by 6 P.M.Modify 6 to 8,I will be home by 6 P.M.,Modify 6 to 8,COMMAND
+ Let's finish this task by 4 P.MAlter 4 to 3, Let's finish this task by 4 P.M,Alter 4 to 3,COMMAND
+ I need to save up 5 thousand dollars for the vacation.Update 5 thousand to 3 thousand, I need to save up 5 thousand dollars for the vacation.,Update 5 thousand to 3 thousand,COMMAND
+The cost of the new car was 15 thousand dollars.Modify cost to 20 thousand,The cost of the new car was 15 thousand dollars.,Modify cost to 20 thousand,COMMAND
+He has earned over 20 million dollars in the stock market.Edit 20 to 15,He has earned over 20 million dollars in the stock market.,Edit 20 to 15,COMMAND
+ She donated 500 dollars to the charity organization.Replace 500 with 1000, She donated 500 dollars to the charity organization.,Replace 500 with 1000,COMMAND
+I will pay you 100 bucks for the painting.Change the cost to 200,I will pay you 100 bucks for the painting.,Change the cost to 200,COMMAND
+" Please help me out, and I'll give you 100 bucks.Replace 100 bucks with 200 bucks"," Please help me out, and I'll give you 100 bucks.",Replace 100 bucks with 200 bucks,COMMAND
+ Sally just won 100 bucks playing the slots!Substitute 100 with 50, Sally just won 100 bucks playing the slots!,Substitute 100 with 50,COMMAND
+ My mom bet me 100 bucks that I wouldn't finish my term paper on time.Alter the cost to 150, My mom bet me 100 bucks that I wouldn't finish my term paper on time.,Alter the cost to 150,COMMAND
+ I found a one rupee coin while I was out walking.Replace 1 rupee with 5, I found a one rupee coin while I was out walking.,Replace 1 rupee with 5,COMMAND
+" The cost of the fabric is 4,500 rupees per meter.Amend 4,500 to 5,000"," The cost of the fabric is 4,500 rupees per meter.","Amend 4,500 to 5,000",COMMAND
+Ninety two states make up the United States.Correct ninety-two to fifty-two,Ninety two states make up the United States.,Correct ninety-two to fifty-two,COMMAND
+ The temperature outside was fifty two degrees Fahrenheit.Change fifty two to forty seven, The temperature outside was fifty two degrees Fahrenheit.,Change fifty two to forty seven,COMMAND
+ I read fifty pages of my book yesterday.Update 50 to 40, I read fifty pages of my book yesterday.,Update 50 to 40,COMMAND
+ There were fifty two people in the room at the party.Alter 52 to 57, There were fifty two people in the room at the party.,Alter 52 to 57,COMMAND
+She was 16 years old when she started college.Modify 16 to 18,She was 16 years old when she started college.,Modify 16 to 18,COMMAND
+ The temperature dropped to 16 degrees Fahrenheit last night.Switch 16 with 18, The temperature dropped to 16 degrees Fahrenheit last night.,Switch 16 with 18,COMMAND
+ We needed 16 eggs for the recipe.Substitute 16 with 14, We needed 16 eggs for the recipe.,Substitute 16 with 14,COMMAND
+His body measurements were 16 inches around the waist and 28 inches around the hips.Edit 28 to 30,His body measurements were 16 inches around the waist and 28 inches around the hips.,Edit 28 to 30,COMMAND
+" After measuring the area of the room, it came out to be 34.8 square metres.Alter 34.8 to 40"," After measuring the area of the room, it came out to be 34.8 square metres.",Alter 34.8 to 40,COMMAND
+She scored 34.8 out of 50 in the English literature exam.Change 34.8 to 45,She scored 34.8 out of 50 in the English literature exam.,Change 34.8 to 45,COMMAND
+Ananya's enthusiasm and energy were on full display during her presentation.Alter Ananya to Arya,Ananya's enthusiasm and energy were on full display during her presentation.,Alter Ananya to Arya,COMMAND
+ Ananya is always the first one to volunteer for any project.Modify name to Niharika, Ananya is always the first one to volunteer for any project.,Modify name to Niharika,COMMAND
+Ananya's singing is adored by all in the neighborhood.Edit Ananya to Tara,Ananya's singing is adored by all in the neighborhood.,Edit Ananya to Tara,COMMAND
+"Ananya's creativity knows no bounds, and she always comes up with unique ideas.Swap Ananya with Amritha","Ananya's creativity knows no bounds, and she always comes up with unique ideas.",Swap Ananya with Amritha,COMMAND
+ Neha is an experienced kitchen designer with a passion for color.Replace Neha with Asma, Neha is an experienced kitchen designer with a passion for color.,Replace Neha with Asma,COMMAND
+Neha's enthusiasm for her work has been contagious to all her colleagues.Substitute Neha for Ankita,Neha's enthusiasm for her work has been contagious to all her colleagues.,Substitute Neha for Ankita,COMMAND
+Neha is always eager to learn new techniques and explore new trends in the industry.Change the name to Sakshi,Neha is always eager to learn new techniques and explore new trends in the industry.,Change the name to Sakshi,COMMAND
+" Neha's success is a testament of her dedication, hard work and creativity.Update name to Neelima"," Neha's success is a testament of her dedication, hard work and creativity.",Update name to Neelima,COMMAND
+"After accusing Vijay of being irresponsible, the principal had a private discussion with him.Modify Vijay to Veer","After accusing Vijay of being irresponsible, the principal had a private discussion with him.",Modify Vijay to Veer,COMMAND
+ Vijay was determined to prove his worth and improve his grades to succeed in college.Replace the name with Ronak, Vijay was determined to prove his worth and improve his grades to succeed in college.,Replace the name with Ronak,COMMAND
+Please text me your details at 9741661360.Change Number to +919653636490,Please text me your details at 9741661360.,Change Number to +919653636490,COMMAND
+ The customer service number is 9741661360.Change Number to +919653636490, The customer service number is 9741661360.,Change Number to +919653636490,COMMAND
+Please call us at 9741661360 for any questions you may have.Change Number to +919653636490,Please call us at 9741661360 for any questions you may have.,Change Number to +919653636490,COMMAND
+ Please send an SMS to 9741661360 to book your appointment.Change Number to +919653636490, Please send an SMS to 9741661360 to book your appointment.,Change Number to +919653636490,COMMAND
+The number for the pizza place you asked is +919913719128.Change Number to +918382834223,The number for the pizza place you asked is +919913719128.,Change Number to +918382834223,COMMAND
+The sun was setting behind the mountains. I need to alter my schedule for next week.,,,NON COMMAND
+"She walked down the street, lost in thought. She wants to edit her essay one more time before submitting it.",,,NON COMMAND
+He couldn't believe what he was hearing. Let's swap seats so that you can see the presentation better.,,,NON COMMAND
+The aroma of fresh coffee filled the room. I have to replace the batteries in my remote control.,,,NON COMMAND
+The birds sang a beautiful melody in the morning. They want to convert the attic into a playroom.,,,NON COMMAND
+She danced gracefully across the stage. I need to revise my presentation for the meeting tomorrow.,,,NON COMMAND
+"The dog barked at the mailman, but didn't bite him. He wants to amend the contract to include a new clause.",,,NON COMMAND
+He felt a sense of relief wash over him. Let's exchange phone numbers so we can stay in touch.,,,NON COMMAND
+"The book was so captivating, she couldn't put it down. I had to substitute butter for margarine in the recipe.",,,NON COMMAND
+The rain pattered gently against the windowpane. I need to rewrite this paragraph to make it more clear.,,,NON COMMAND
+"The children ran through the park, laughing and playing. She wants to update her wardrobe for the new season.",,,NON COMMAND
+"The old man sat quietly on the bench, watching the world go by. I need to modify my workout routine to target different muscle groups.",,,NON COMMAND
+The flowers in the garden were in full bloom. He wants to edit his resume before sending it out to employers.,,,NON COMMAND
+"She put on her coat and grabbed her keys, ready to leave. Let's swap our lunch for a change of pace.",,,NON COMMAND
+He gazed out the window at the stars twinkling in the sky. I have to replace the filter in my air conditioning unit.,,,NON COMMAND
+"The music filled the room, setting the mood for the evening. They want to convert the old warehouse into a co-working space.",,,NON COMMAND
+"She sighed deeply, feeling overwhelmed by her workload. I need to revise my lesson plans for the upcoming school year.",,,NON COMMAND
+"He was lost in thought, trying to solve a difficult problem. She wants to amend her tax return to claim additional deductions.",,,NON COMMAND
+The sunset painted the sky with brilliant hues of orange and pink. Let's exchange stories about our travels.,,,NON COMMAND
+The baby giggled as her mother tickled her. I had to substitute almond milk for regular milk in the recipe.,,,NON COMMAND
+"The car sped down the highway, the wind rushing past. I need to rewrite this email to make it more professional.",,,NON COMMAND
+The scent of freshly baked bread wafted through the air. He wants to update his computer software to the latest version.,,,NON COMMAND
+"She stood at the edge of the cliff, taking in the breathtaking view. Can you correct the grammar in this sentence?",,,NON COMMAND
+The sound of waves crashing against the shore was soothing. I need to alter the hemline of this dress.,,,NON COMMAND
+"He paused for a moment, considering his next move. She wants to modify her diet to include more protein.",,,NON COMMAND
+"The forest was quiet, except for the occasional rustle of leaves. Let's edit the video to remove the parts that don't work.",,,NON COMMAND
+"The room was dimly lit, creating a cozy atmosphere. I have to swap out the lightbulb in the lamp.",,,NON COMMAND
+"She twirled around in her new dress, feeling beautiful. They want to replace the carpet with hardwood flooring.",,,NON COMMAND
+"He laughed at the joke, unable to hold back. I need to convert this PDF file to a Word document.",,,NON COMMAND
+"The snow was falling gently, blanketing the ground in white. She wants to revise her novel to make the plot more engaging.",,,NON COMMAND
+The fire crackled merrily in the fireplace. Let's amend the proposal to include additional funding.,,,NON COMMAND
+"She leaned back in her chair, closing her eyes for a moment. I had to exchange my foreign currency at the airport.",,,NON COMMAND
+"He took a deep breath, feeling refreshed and rejuvenated. I need to substitute turkey bacon for regular bacon in the recipe.",,,NON COMMAND
+"The clock ticked away the minutes, marking the passage of time. I need to rewrite my resume to highlight my skills.",,,NON COMMAND
+"The river flowed gently, reflecting the blue sky above. He wants to update his wardrobe with some new clothes.",,,NON COMMAND
+"She sipped her tea, enjoying the warmth spreading through her body. I need to modify my car's engine to improve performance.",,,NON COMMAND
+He admired the intricate design of the antique watch. She wants to edit the photos to remove the red-eye effect.,,,NON COMMAND
+The clouds drifted lazily across the sky. Let's swap out these chairs for some more comfortable ones.,,,NON COMMAND
+The baby slept soundly in her crib. I have to replace the windshield wipers on my car.,,,NON COMMAND
+"She hugged her friend tightly, grateful for their support. They want to convert the garage into a home gym.",,,NON COMMAND
+He savored the taste of the homemade pie. I need to revise my essay to make the arguments more persuasive.,,,NON COMMAND
+"The sun peeked through the clouds, casting a warm glow on everything. He wants to amend the lease agreement to include a pet policy.",,,NON COMMAND
+"The tree rustled in the wind, its leaves shimmering in the sunlight. Let's exchange ideas on how to improve productivity.",,,NON COMMAND
+"She hummed a tune as she worked, feeling content. I had to substitute baking powder for baking soda in the recipe.",,,NON COMMAND
+He marveled at the beauty of the mountain range in the distance. I need to rewrite this code to fix the bugs.,,,NON COMMAND
+The smell of the ocean was invigorating. She wants to update her phone to the latest model.,,,NON COMMAND
+The wind chimes tinkled softly in the breeze. I need to alter the length of these pants.,,,NON COMMAND
+"She smiled at the memory, feeling happy. He wants to modify his workout routine to focus on cardio.",,,NON COMMAND
+He ran his hand over the smooth surface of the stone. Let's edit this article to make it more concise.,,,NON COMMAND
+I have to swap the tires on my car for winter ones. The average age of the students in the class is 22.,,,NON COMMAND
+My grandmother just turned 90 years old. New York City is one of the most populated cities in the United States.,,,NON COMMAND
+New York City is known for its skyscrapers and bustling streets. Her favorite color is blue because it reminds her of the ocean.,,,NON COMMAND
+Her favorite color is blue. Australia is a beautiful country with diverse wildlife.,,,NON COMMAND
+Japan is a country that has a rich cultural heritage. The date for the meeting has been set for next Monday.,,,NON COMMAND
+The date of our wedding is set for June 12th. The duration of the movie is two hours and fifteen minutes.,,,NON COMMAND
+The duration of the movie is two hours and fifteen minutes. He won a large sum of money in the lottery.,,,NON COMMAND
+She won a prize of $500 in the raffle. The number of people attending the concert exceeded expectations.,,,NON COMMAND
+There were a total of ten participants in the competition. The percentage of people who voted in the election was high.,,,NON COMMAND
+The percentage of people who voted in the last election was 60%. Her phone number is 15235-1234.,,,NON COMMAND
+I need to update my phone number in the system. The age of the tree can be determined by counting its rings.,,,NON COMMAND
+The age of the building is over 100 years. Mexico City is one of the largest cities in the world.,,,NON COMMAND
+Los Angeles is a city that is famous for its film industry. The color of the sky at sunset is a beautiful shade of orange.,,,NON COMMAND
+The color of the sky changes throughout the day. Canada is known for its friendly people and stunning natural landscapes.,,,NON COMMAND
+Canada is a country that is known for its natural beauty. The date of their wedding anniversary is September 3rd.,,,NON COMMAND
+The date of our anniversary is coming up soon. The duration of the flight from New York to London is approximately six hours.,,,NON COMMAND
+The duration of the flight is six hours and forty-five minutes. He invested a large sum of money in the stock market.,,,NON COMMAND
+"He won a jackpot of $10,000 at the casino. The number of pages in the book is over 500.",,,NON COMMAND
+There were a total of twenty-five students in the class. The percentage of students who passed the exam was 85%.,,,NON COMMAND
+The percentage of people who prefer coffee over tea is 60%. His phone number is easy to remember: 555-5555.,,,NON COMMAND
+I need to call my doctor's office and update my phone number. The age of the building can be estimated by its architecture.,,,NON COMMAND
+The age of the dog is four years old. Paris is often referred to as the city of love.,,,NON COMMAND
+Paris is a city that is renowned for its fashion industry. The color of her eyes is a deep shade of brown.,,,NON COMMAND
+The color of the leaves changes in the fall. Japan is a country with a rich cultural heritage.,,,NON COMMAND
+Brazil is a country that is famous for its beaches and soccer. The date of the party has been changed to next Saturday.,,,NON COMMAND
+The date of the meeting is next Tuesday. The duration of the concert was three hours.,,,NON COMMAND
+The duration of the concert is two hours and thirty minutes. She won a small amount of money in the casino.,,,NON COMMAND
+"She received a bonus of $1,000 for her hard work. The number of employees at the company is 50.",,,NON COMMAND
+There were a total of fifty guests at the wedding. The percentage of rainfall in the region was 75%.,,,NON COMMAND
+The percentage of people who use social media is 80%. His phone number is out of service.,,,NON COMMAND
+I need to find my friend's phone number and give her a call. The age of the wine can be determined by its vintage.,,,NON COMMAND
+The age of the car is twelve years old. London is a vibrant and multicultural city.,,,NON COMMAND
+London is a city that is known for its history and architecture. The color of the flowers in the garden is a mix of pink and purple.,,,NON COMMAND
+The color of the flowers in the garden is vibrant. Brazil is a country known for its passionate people and samba music.,,,NON COMMAND
+Australia is a country that is famous for its unique wildlife. The date of the event is still to be determined.,,,NON COMMAND
+The date of the party is next Saturday. The duration of the play is two and a half hours.,,,NON COMMAND
+The duration of the game is two hours and fifteen minutes. He donated a large sum of money to charity.,,,NON COMMAND
+He saved up enough money to buy a new car. The number of books on the shelf is 30.,,,NON COMMAND
+There were a total of one hundred people at the conference. The percentage of students who failed the exam was 15%.,,,NON COMMAND
+The percentage of people who exercise regularly is 40%. Her phone number is listed in the directory.,,,NON COMMAND
+I need to update my phone number on my resume. The age of the painting can be determined by its style.,,,NON COMMAND
+The age of the tree is over one hundred years old. Beijing is the capital city of China.,,,NON COMMAND
+Tokyo is a city that is famous for its technology and food. The color of the car is a metallic silver.,,,NON COMMAND
+The color of the sky at sunset is breathtaking. South Africa is a country with diverse cultures and stunning wildlife.,,,NON COMMAND
+Italy is a country that is renowned for its cuisine and art. The date of the deadline is next Friday.,,,NON COMMAND
+The date of the event is on the 20th of July. The duration of the lecture was one hour.,,,NON COMMAND
+The duration of the race is four hours. She earned a significant amount of money from her job.,,,NON COMMAND
+"She received a loan of $50,000 to start her business. The number of goals scored in the match was five.",,,NON COMMAND
+There were a total of one thousand applicants for the job. The percentage of people who use public transportation is increasing.,,,NON COMMAND
+The percentage of people who speak a second language is 50%. His phone number is difficult to remember: 555-8989.,,,NON COMMAND
+I need to give my phone number to the receptionist at the hotel. The age of the dog can be determined by its teeth.,,,NON COMMAND
+The age of the book is over fifty years old. Chicago is known for its deep dish pizza and architecture.,,,NON COMMAND
+"Chicago is a city that is known for its architecture and deep-dish pizza. The color of the leaves in the fall is a mix of red, orange, and yellow.",,,NON COMMAND
+She had to alter her plans when her flight was cancelled. He is 25 years of age and already a successful businessman.,,,NON COMMAND
+He decided to modify the design to make it more user-friendly. New York City is known for its towering skyscrapers and bustling streets.,,,NON COMMAND
+I need to edit this document before submitting it. The color of the sky was a beautiful shade of blue.,,,NON COMMAND
+Can we swap shifts for next week? Canada is a country known for its friendly people and natural beauty.,,,NON COMMAND
+The mechanic had to replace the faulty part in the engine. The date of the wedding is set for June 15th.,,,NON COMMAND
+She was able to convert the file to a different format. The duration of the flight is approximately 6 hours.,,,NON COMMAND
+The author had to revise the manuscript based on feedback from the editor. He earned a lot of money from his successful business venture.,,,NON COMMAND
+He needed to amend the contract to include the new terms. The number of attendees at the conference was over 500.,,,NON COMMAND
+They decided to exchange gifts for their birthdays. The percentage of students who passed the exam was 85%.,,,NON COMMAND
+She had to substitute the butter with margarine in the recipe. She is 32 years of age and has already traveled to 20 different countries.,,,NON COMMAND
+The journalist had to rewrite the article to meet the word count. Los Angeles is a city known for its entertainment industry and warm weather.,,,NON COMMAND
+The software needs to be updated to fix the bugs. The color of her dress was a vibrant shade of red.,,,NON COMMAND
+He corrected the spelling errors in the report. Australia is a country known for its unique wildlife and vast landscapes.,,,NON COMMAND
+The tailor was able to alter the dress to fit her perfectly. The date of the concert is set for August 10th.,,,NON COMMAND
+They had to modify the recipe to accommodate for allergies. The duration of the movie is approximately 2 hours and 30 minutes.,,,NON COMMAND
+I will edit the video to remove the unnecessary footage. She inherited a large sum of money from her grandparents.,,,NON COMMAND
+Can we swap seats so I can sit by the window? The number of pages in the book is 400.,,,NON COMMAND
+The broken window was replaced with a new one. The percentage of people who voted in the election was 70%.,,,NON COMMAND
+She was able to convert the file to a PDF for easier sharing. He is only 18 years of age but has already won several awards for his artwork.,,,NON COMMAND
+The author revised the ending of the book to provide more closure. Paris is a city known for its art museums and romantic atmosphere.,,,NON COMMAND
+He amended the proposal to address the concerns raised by the board. The color of the flowers in the garden was a beautiful shade of pink.,,,NON COMMAND
+They decided to exchange contact information before leaving the conference. Japan is a country known for its advanced technology and rich culture.,,,NON COMMAND
+She substituted the cream with coconut milk in the recipe. The date of the meeting is set for September 5th.,,,NON COMMAND
+The editor asked the writer to rewrite the article with a different angle. The duration of the play is approximately 2 hours.,,,NON COMMAND
+The software automatically updates to the latest version. She won a large amount of money from the lottery.,,,NON COMMAND
+He corrected the grammar mistakes in the email. The number of employees at the company is 100.,,,NON COMMAND
+The tailor modified the pants to make them more tapered. The percentage of people who use social media is 80%.,,,NON COMMAND
+She had to alter her travel plans due to unexpected circumstances. His phone number is 23542-9012.,,,NON COMMAND
+They decided to edit the video to add some special effects. He is 50 years of age and has been working at the company for 25 years.,,,NON COMMAND
+Can we swap cars for the weekend? London is a city known for its history and diverse culture.,,,NON COMMAND
+The broken part in the machine was replaced with a new one. The color of the sunset was a stunning shade of orange.,,,NON COMMAND
+She was able to convert the image to a higher resolution. Spain is a country known for its beautiful beaches and delicious cuisine.,,,NON COMMAND
+The author revised the first chapter of the book to hook the reader. The date of the party is set for October 20th.,,,NON COMMAND
+He amended the budget to allocate more funds for marketing. The duration of the class is approximately 1 hour and 30 minutes.,,,NON COMMAND
+They exchanged pleasantries before the meeting began. She saved a lot of money by shopping during the Black Friday sales.,,,NON COMMAND
+She substituted the tofu with tempeh in the recipe. The number of students in the class is 25.,,,NON COMMAND
+The writer had to rewrite the entire script to meet the producer's vision. The percentage of people who exercise regularly is 60%.,,,NON COMMAND
+The software can automatically correct spelling mistakes. He is 70 years of age and has been retired for 10 years.,,,NON COMMAND
+The tailor altered the dress to make it shorter. Beijing is a city known for its ancient landmarks and modern architecture.,,,NON COMMAND
+They modified the website to improve the user experience. The color of the ocean was a deep shade of blue.,,,NON COMMAND
+Can we swap apartments for the summer? Brazil is a country known for its passionate people and vibrant culture.,,,NON COMMAND
+The broken bulb in the lamp was replaced with a new one. The date of the festival is set for November 15th.,,,NON COMMAND
+She was able to convert the video to a different aspect ratio. The duration of the game is approximately 3 hours.,,,NON COMMAND
+The author revised the characters in the book to make them more relatable. She invested a large amount of money in the stock market.,,,NON COMMAND
+"He amended the proposal to include a more detailed timeline. The number of books in the library is 10,000.",,,NON COMMAND
+They exchanged business cards at the networking event. The percentage of people who prefer coffee over tea is 55%.,,,NON COMMAND
+She substituted the beef with mushrooms in the recipe. He is 21 years of age and just started his first year of college.,,,NON COMMAND
+The editor asked the writer to rewrite the article with a more upbeat tone. Sydney is a city known for its beauty,,,NON COMMAND
+The software needs to be updated to ensure compatibility with the latest operating system. The sun is shining brightly today.,,,NON COMMAND
+He corrected the punctuation errors in the essay. She always reads before going to bed.,,,NON COMMAND
+The tailor modified the suit jacket to fit him better. The cat is sleeping peacefully on the windowsill.,,,NON COMMAND
+She had to alter her workout routine due to an injury. He ran five miles this morning.,,,NON COMMAND
+They decided to edit the photos to remove the red-eye effect. The flowers in the garden are blooming.,,,NON COMMAND
+Can we swap rooms for the night? I love watching movies on the weekends.,,,NON COMMAND
+The broken tire on the car was replaced with a new one. The book on the shelf is too high for me to reach.,,,NON COMMAND
+She was able to convert the text to speech for accessibility purposes. She plays the piano beautifully.,,,NON COMMAND
+The author revised the plot of the novel The restaurant down the street serves the best pizza.,,,NON COMMAND
+The designer had to alter the dress to fit the model's measurements. He is studying to become a doctor.,,,NON COMMAND
+He decided to modify his diet to include more vegetables. The baby is crying and needs to be fed.,,,NON COMMAND
+She needed to edit her resume before submitting it to the employer. She is wearing a blue dress to the party.,,,NON COMMAND
+Can we swap seats so I can sit next to my friend? The dog is barking loudly in the yard.,,,NON COMMAND
+The old car was replaced with a new one. He enjoys playing basketball with his friends.,,,NON COMMAND
+She was able to convert the audio file to a different format. The beach is crowded with people enjoying the sun.,,,NON COMMAND
+The author had to revise the ending of the book to create a better impact. She is listening to her favorite song on the radio.,,,NON COMMAND
+He needed to amend the proposal to add more details. The clock on the wall is ticking loudly.,,,NON COMMAND
+They decided to exchange their contact information before leaving the meeting. He is working hard to finish his project on time.,,,NON COMMAND
+She substituted the sugar with honey in the recipe. The tree in the backyard is starting to lose its leaves.,,,NON COMMAND
+The journalist had to rewrite the article to make it more engaging. She is excited to start her new job next week.,,,NON COMMAND
+The software needs to be updated to improve its functionality. The car needs to be washed and waxed.,,,NON COMMAND
+He corrected the pronunciation of the difficult words. He is learning a new language in his spare time.,,,NON COMMAND
+The tailor was able to alter the suit to fit him better. The painting on the wall is a beautiful landscape.,,,NON COMMAND
+They had to modify their travel plans due to bad weather. She is making a delicious dinner for her family.,,,NON COMMAND
+I will edit the presentation to include more visual aids. The computer is running slowly and needs to be restarted.,,,NON COMMAND
+Can we swap our rooms for the night? He enjoys reading science fiction novels.,,,NON COMMAND
+The broken chair was replaced with a new one. The train is running late today.,,,NON COMMAND
+She was able to convert the PDF file to a Word document. She is taking a break from work to have a cup of coffee.,,,NON COMMAND
+The author revised the book to make it more appealing to the audience. The sky is clear and blue on this beautiful day.,,,NON COMMAND
+He amended the contract to include the new terms and conditions. He is driving to the airport to pick up his friend.,,,NON COMMAND
+They exchanged greetings and talked about their favorite restaurants. The children are playing in the park and having fun.,,,NON COMMAND
+She substituted the flour with gluten-free flour in the recipe. She is wearing a hat to protect herself from the sun.,,,NON COMMAND
+"The editor asked the writer to rewrite the article with more specific details. The phone is ringing, but she doesn't recognize the number.",,,NON COMMAND
+The software automatically corrects the grammar and spelling mistakes. He is watching a documentary about the history of art.,,,NON COMMAND
+The tailor modified the shirt to add a pocket. The river is flowing rapidly after the recent rain.,,,NON COMMAND
+She had to alter the size of the painting to fit the frame. She is studying for her final exams next week.,,,NON COMMAND
+They decided to edit the video to add a background music. The television is showing a news program about the weather.,,,NON COMMAND
+Can we swap our shifts for the next week? He is going to the gym to work out and stay in shape.,,,NON COMMAND
+The broken phone screen was replaced with a new one. The birds are chirping in the trees outside.,,,NON COMMAND
+She was able to convert the image to black and white for a vintage look. She is planning a trip to Europe for next summer.,,,NON COMMAND
+The author revised the character's backstory to make it more believable. The room is quiet and peaceful after a long day.,,,NON COMMAND
+He amended the policy to include more benefits for the employees. He is learning how to cook his favorite dish.,,,NON COMMAND
+They exchanged gifts for Christmas. The traffic is heavy during rush hour.,,,NON COMMAND
+She substituted the chicken with tofu in the recipe. She is writing a letter to her friend who lives overseas.,,,NON COMMAND
+The writer had to rewrite the story to include a twist ending. The coffee shop on the corner makes the best lattes.,,,NON COMMAND
+The software needs to be updated to fix the security vulnerabilities. He is playing chess with his grandfather.,,,NON COMMAND
+The tailor altered the dress to add a sleeve. The clouds are moving quickly across the sky.,,,NON COMMAND
+They had to modify the presentation to meet the time limit. She is wearing a necklace that was a gift from her mother.,,,NON COMMAND
+Can we swap our textbooks for the semester? The bakery down the street sells delicious croissants.,,,NON COMMAND
+The broken lock on the door was replaced with a new one. He is looking forward to spending time with his family over the holidays.,,,NON COMMAND
+She was able to convert the video to a GIF for social media. The park is filled with children playing on the swings and slides.,,,NON COMMAND
+The author revised the opening paragraph to hook the reader's attention. She is practicing yoga to help reduce stress.,,,NON COMMAND
+He amended the schedule to accommodate for a new meeting. The movie theater is showing the latest blockbuster.,,,NON COMMAND
+They exchanged compliments and talked about their favorite books. He is listening to a podcast on his commute to work.,,,NON COMMAND
+She substituted the regular pasta with whole wheat pasta in the recipe. The flowers in the vase are wilting and need to be replaced.,,,NON COMMAND
+The editor asked the writer to rewrite the article with a different perspective. She is walking her dog in the park.,,,NON COMMAND
+The software can automatically update to the latest version. The book she is reading is a mystery novel.,,,NON COMMAND
+The tailor modified the jacket to make it more stylish. He is attending a conference on artificial intelligence.,,,NON COMMAND
+She had to alter the recipe to make it vegan. The rain is coming down hard and fast outside.,,,NON COMMAND
+They decided to edit the picture to remove the red eye effect. She is baking a cake for her friend's birthday.,,,NON COMMAND
+Can we swap cars for the weekend? The supermarket has a sale on fresh produce this week.,,,NON COMMAND
+The broken light bulb was replaced with a new one.,,,NON COMMAND
+She was able to convert the text to braille for accessibility.,,,NON COMMAND
+The author revised the dialogue to make it more natural.,,,NON COMMAND
+He amended the budget to allocate more funds for research.,,,NON COMMAND
+"The sun is setting behind the horizon, painting the sky with beautiful colors.",,,NON COMMAND
+"She loves to read books in her spare time, especially mystery novels.",,,NON COMMAND
+The sound of rain tapping against the roof is soothing and calming.,,,NON COMMAND
+He enjoys playing basketball with his friends after school.,,,NON COMMAND
+The smell of freshly baked cookies fills the house with warmth and comfort.,,,NON COMMAND
+She always makes sure to drink plenty of water throughout the day.,,,NON COMMAND
+The view from the top of the mountain is absolutely breathtaking.,,,NON COMMAND
+He likes to watch movies late at night when he can't fall asleep.,,,NON COMMAND
+The smell of coffee brewing in the morning is the perfect wake-up call.,,,NON COMMAND
+"She spends hours practicing her guitar every day, hoping to become a professional musician someday.",,,NON COMMAND
+The sound of birds singing outside her window always puts her in a good mood.,,,NON COMMAND
+He loves to travel and explore new cultures and cuisines.,,,NON COMMAND
+"She volunteers at the local animal shelter on the weekends, playing with the dogs and cats.",,,NON COMMAND
+The smell of the ocean and the sand between her toes make her feel alive and free.,,,NON COMMAND
+"He enjoys hiking in the mountains, feeling the fresh air and sunshine on his face.",,,NON COMMAND
+She works hard every day to achieve her dreams and aspirations.,,,NON COMMAND
+The sound of the wind blowing through the trees is a reminder of the beauty of nature.,,,NON COMMAND
+"He likes to write stories and poems in his free time, expressing his thoughts and emotions.",,,NON COMMAND
+"She enjoys spending time with her family and friends, creating memories that will last a lifetime.",,,NON COMMAND
+The smell of freshly cut grass and the sight of colorful flowers make the park a peaceful place to be.,,,NON COMMAND
+He loves to cook and experiment with different flavors and ingredients.,,,NON COMMAND
+She practices yoga and meditation to find inner peace and balance in her life.,,,NON COMMAND
+The sound of waves crashing against the shore is a soothing and calming soundtrack for her.,,,NON COMMAND
+"He works hard to maintain a healthy and active lifestyle, exercising and eating nutritious foods.",,,NON COMMAND
+"She loves to sing and dance, expressing herself through music and movement.",,,NON COMMAND
+The smell of fresh air and the sight of green trees and blue skies make the countryside a perfect getaway.,,,NON COMMAND
+"He spends time with his grandparents, listening to their stories and learning from their wisdom.",,,NON COMMAND
+"She enjoys painting and drawing, creating beautiful artwork that reflects her inner world.",,,NON COMMAND
+The sound of laughter and the sight of smiling faces make her heart full and happy.,,,NON COMMAND
+He likes to listen to podcasts and audiobooks while commuting or doing chores.,,,NON COMMAND
+"She practices gratitude and mindfulness, finding joy in the small things in life.",,,NON COMMAND
+The smell of freshly brewed tea and the warmth of a cozy blanket make a rainy day enjoyable.,,,NON COMMAND
+"He volunteers at a homeless shelter, providing food and support to those in need.",,,NON COMMAND
+"She values honesty, integrity, and empathy in her relationships and interactions with others.",,,NON COMMAND
+The sound of thunder and the flash of lightning create a powerful and awe-inspiring experience.,,,NON COMMAND
+"He likes to play video games and board games with his friends, challenging his skills and strategy.",,,NON COMMAND
+"She reads books and articles on personal development and growth, seeking to become a better version of herself.",,,NON COMMAND
+The smell of fresh herbs and spices makes cooking a delicious and aromatic experience.,,,NON COMMAND
+"He spends time in nature, appreciating the beauty and complexity of the world around him.",,,NON COMMAND
+"She practices self-care and self-love, taking care of her physical, emotional, and mental well-being.",,,NON COMMAND
+The sound of children playing and laughing is a reminder of the innocence and joy of childhood.,,,NON COMMAND
+The sun was shining brightly in the sky. The children played outside in the park all afternoon.,,,NON COMMAND
+She wore a red dress to the party last night. He studied hard for his math test and earned an A.,,,NON COMMAND
+"The dog barked loudly at the mailman. She took a long walk in the woods, enjoying the peaceful surroundings.",,,NON COMMAND
+He drank a cup of coffee every morning. The cat curled up on the couch and fell asleep.,,,NON COMMAND
+She watched a movie with her friends over the weekend. He went for a swim in the ocean on a hot summer day.,,,NON COMMAND
+The flowers in the garden bloomed beautifully in the spring. She wrote a poem about the beauty of nature.,,,NON COMMAND
+He listened to his favorite songs on the way to work. The bird chirped happily in its nest in the tree.,,,NON COMMAND
+She cooked a delicious meal for her family last night. He likes to take long walks by the river and clear his mind.,,,NON COMMAND
+"The sky is blue on a clear day. The sun is shining bright in the sky, casting a warm glow.",,,NON COMMAND
+"I enjoy drinking tea in the morning. I love spending time with my pets, they bring me so much joy.",,,NON COMMAND
+The flowers in the garden are in full bloom. She is a talented artist who can create beautiful works of art.,,,NON COMMAND
+She always wears a smile on her face. He enjoys watching sports and cheering on his favorite team.,,,NON COMMAND
+He loves to play with his dog in the park. The smell of a campfire brings back childhood memories.,,,NON COMMAND
+The smell of freshly cut grass is refreshing. She likes to read books in the park on a sunny day.,,,NON COMMAND
+I like to listen to music while I work. He has a love for history and enjoys learning about the past.,,,NON COMMAND
+She enjoys going for a run in the morning. The sound of a waterfall is both calming and mesmerizing.,,,NON COMMAND
+He is a talented musician who can play many instruments. She enjoys cooking meals for her loved ones and seeing them enjoy it.,,,NON COMMAND
+"The sun is setting over the horizon, painting the sky with beautiful colors. He has a green thumb and loves to garden in his free time.",,,NON COMMAND
+"She likes to spend her weekends exploring new places. The moon is bright in the night sky, casting a mysterious glow.",,,NON COMMAND
+He has a passion for cooking and experimenting with new recipes. I enjoy going for a bike ride on a nice day.,,,NON COMMAND
+The sound of rain tapping against the window is soothing. She is a good listener who always offers a kind ear.,,,NON COMMAND
+She enjoys watching the stars in the night sky. He likes to go for a swim in the ocean and feel the salt water on his skin.,,,NON COMMAND
+He likes to read books by the fireplace on a cold winter day. The smell of a freshly mowed lawn is invigorating.,,,NON COMMAND
+The smell of freshly brewed coffee wakes me up in the morning. She loves to travel and experience new cultures.,,,NON COMMAND
+She loves spending time with her family and friends. He enjoys hiking and exploring new trails.,,,NON COMMAND
+He is fascinated by science and technology. The sunflowers in the field are a beautiful sight to see.,,,NON COMMAND
+The ocean is vast and full of wonders. I like to take long hot baths after a stressful day.,,,NON COMMAND
+I enjoy watching movies on a lazy Sunday afternoon. She is a talented singer who can move her audience with her voice.,,,NON COMMAND
+She is an excellent writer who can captivate her readers. He has a love for animals and enjoys spending time with them.,,,NON COMMAND
+"He has a talent for photography, capturing beautiful moments in life. The sound of a thunderstorm is both exhilarating and frightening.",,,NON COMMAND
+The sound of birds chirping in the morning is a pleasant wake-up call. She enjoys watching the sunset and reflecting on the day.,,,NON COMMAND
+She loves to dance and express herself through movement. He likes to watch documentaries and learn about the world around him.,,,NON COMMAND
+He is always eager to learn new things and broaden his horizons. The smell of a fresh pot of soup on the stove is comforting.,,,NON COMMAND
+The smell of a freshly baked pie is irresistible. She loves to paint and express herself through art.,,,NON COMMAND
+"She enjoys spending time in nature, taking in the sights and sounds. Maria loves to go for walks in the park.",,,NON COMMAND
+Rahul asked me when I was leaving. John is a talented musician who can play many instruments.,,,NON COMMAND
+"The stranger asked Aladdin where he lived. Sarah enjoys trying new foods and flavors, expanding her palate.",,,NON COMMAND
+The teacher asked Shelly why he was laughing. Alex is fascinated by the intricacies of the human mind and behavior.,,,NON COMMAND
+Dhronacharya ordered Arjun to shoot the fish’s eye. Emily spends hours practicing yoga to stay centered and calm.,,,NON COMMAND
+The jury ordered to call the first convict. David likes to read books by the fireplace on a cold winter day.,,,NON COMMAND
+The man urged to call the ambulance. Ava enjoys spending time with her family and friends.,,,NON COMMAND
+Bruce said to me he would do the work. Michael is a talented artist who can create beautiful works of art.,,,NON COMMAND
+My mother told me that I was wrong. Rachel has a passion for cooking and experimenting with new recipes.,,,NON COMMAND
+Mr Richard requested me to wait there till he returned. Matthew loves to play with his dog in the park.,,,NON COMMAND
+"The captain applauded me, saying that I had played well. Olivia is always eager to learn new things and broaden her horizons.",,,NON COMMAND
+Raj exclaimed sadly that his pet died. Daniel is fascinated by science and technology.,,,NON COMMAND
+Ruchi said that she might go there. Emma enjoys going for a run in the morning.,,,NON COMMAND
+Bucky asked Steve if he heard him. Lucas is a good listener who always offers a kind ear.,,,NON COMMAND
+The boy asked to let him come in. Sophia likes to listen to music while she works.,,,NON COMMAND
+"Granny prayed that God might bless me. Ethan is determined to make a positive impact in the world, one small step at a time.",,,NON COMMAND
+Chloe loves to travel and experience new cultures. Isabella has a love for science and enjoys conducting experiments.,,,NON COMMAND
+Ryan is an excellent writer who can captivate his readers. Christopher likes to read books in the park on a sunny day.,,,NON COMMAND
+"Lily has a talent for photography, capturing beautiful moments in life. Sophia enjoys spending time with her friends and catching up over coffee.",,,NON COMMAND
+Jason is always up for a game of basketball with his friends. William is always up for trying new things and stepping out of his comfort zone.,,,NON COMMAND
+"Victoria enjoys spending time in nature, taking in the sights and sounds. Madison loves to dance and express herself through movement.",,,NON COMMAND
+Isaac likes to take long walks by the river and clear his mind. Alexander enjoys watching sports and cheering on his favorite team.,,,NON COMMAND
+Grace has a green thumb and loves to garden in her free time. Charlotte is fascinated by space and loves to stargaze at night.,,,NON COMMAND
+Benjamin is fascinated by history and enjoys learning about the past. Nicholas likes to take road trips and explore new cities.,,,NON COMMAND
+"Ava loves spending time with her pets, they bring her so much joy. Olivia is a talented artist who can create beautiful works of art.",,,NON COMMAND
+Thomas likes to go for a swim in the ocean and feel the salt water on his skin. Henry loves to go for a bike ride on a nice day.,,,NON COMMAND
+Emily enjoys cooking meals for her loved ones and seeing them enjoy it. Elizabeth enjoys going for walks in the countryside and taking in the scenery.,,,NON COMMAND
+Samuel has a love for animals and enjoys spending time with them. Christopher likes to spend his weekends camping and enjoying the great outdoors.,,,NON COMMAND
+Amelia is a talented singer who can move her audience with her voice. Isabella enjoys watching the stars in the night sky and marveling at their beauty.,,,NON COMMAND
+Jack likes to watch documentaries and learn about the world around him. Noah has a passion for architecture and enjoys studying different styles and designs.,,,NON COMMAND
+Mia enjoys watching the sunset and reflecting on the day. Ava likes to go to the beach and feel the sand between her toes.,,,NON COMMAND
+Ethan likes to play board games with his family on a rainy day. Lucas enjoys spending time with his siblings and playing games together.,,,NON COMMAND
+Lily loves to paint and express herself through art. Chloe loves to read books on a lazy Sunday afternoon.,,,NON COMMAND
+Jacob enjoys hiking and exploring new trails. The percentage of people who own a car is 80%.,,,NON COMMAND
+"He is 30 years of age and works as a software engineer. The amount of money she spent on her vacation was $2,000.",,,NON COMMAND
+Tokyo is a city known for its bustling streets and modern architecture. He is 25 years of age and just started his own business.,,,NON COMMAND
+The color of her eyes was a striking shade of green. Bangkok is a city known for its vibrant street food scene and temples.,,,NON COMMAND
+France is a country known for its rich history and culture. The color of the sunset was a beautiful shade of pink.,,,NON COMMAND
+The date of the concert is set for July 20th. Italy is a country known for its delicious pizza and pasta.,,,NON COMMAND
+The duration of the flight is approximately 8 hours. The date of the wedding is set for October 5th.,,,NON COMMAND
+She won a large amount of money in the lottery. The duration of the concert is approximately 3 hours.,,,NON COMMAND
+The number of pages in the book is 300. She saved a lot of money by shopping during the Black Friday sales.,,,NON COMMAND
+"The percentage of people who prefer chocolate over vanilla ice cream is 60%. The number of books in the library is 5,000.",,,NON COMMAND
+He earned a lot of money from his successful business venture. The percentage of people who prefer dogs over cats is 65%.,,,NON COMMAND
+The age of the oldest person in the room is 90. The amount of money he earned from his part-time job was $500.,,,NON COMMAND
+San Francisco is a city known for its iconic Golden Gate Bridge and hilly streets. He is 40 years of age and has two children.,,,NON COMMAND
+The color of his shirt was a bright shade of yellow. Amsterdam is a city known for its picturesque canals and coffee shops.,,,NON COMMAND
+Germany is a country known for its beer and sausages. The color of the flowers in the garden was a lovely shade of purple.,,,NON COMMAND
+The date of the conference is set for September 15th. Australia is a country known for its unique wildlife and beaches.,,,NON COMMAND
+The duration of the movie is approximately 2 hours. The date of the party is set for November 10th.,,,NON COMMAND
+She invested a large amount of money in the stock market. The duration of the play is approximately 2 hours and 30 minutes.,,,NON COMMAND
+The number of attendees at the seminar was 50. She won a small amount of money from the scratch-off ticket.,,,NON COMMAND
+The percentage of people who own a car is 80%. The number of students in the class is 20.,,,NON COMMAND
+"The amount of money she spent on her vacation was $2,000. The percentage of people who prefer tea over coffee is 45%.",,,NON COMMAND
+He is 25 years of age and just started his own business. The amount of money she donated to charity was $100.,,,NON COMMAND
+Bangkok is a city known for its vibrant street food scene and temples. He is 50 years of age and has been working at the same company for 25 years.,,,NON COMMAND
+The color of the sunset was a beautiful shade of pink. Dubai is a city known for its luxurious shopping malls and towering skyscrapers.,,,NON COMMAND
+Italy is a country known for its delicious pizza and pasta. The color of the sky during the sunrise was a breathtaking shade of orange.,,,NON COMMAND
+The date of the wedding is set for October 5th. Brazil is a country known for its carnival and samba music.,,,NON COMMAND
+The duration of the concert is approximately 3 hours. The date of the festival is set for December 25th.,,,NON COMMAND
+She saved a lot of money by shopping during the Black Friday sales. The duration of the soccer game is approximately 1 hour and 45 minutes.,,,NON COMMAND
+"The number of books in the library is 5,000. She won a scholarship that covers 50% of her tuition fees.",,,NON COMMAND
+The percentage of people who prefer dogs over cats is 65%. The number of cars in the parking lot is 100.,,,NON COMMAND
+The amount of money he earned from his part-time job was $500. The percentage of people who have a gym membership is 70%.,,,NON COMMAND
+He is 40 years of age and has two children. The amount of money he spent on his new phone was $800.,,,NON COMMAND
